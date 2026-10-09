@@ -43,7 +43,7 @@ msgstr ""
 "Выберите, должен ли быть активирован «ночной переключатель» или нет. "
 "Некоторые значки будут отображаться как ночные значки с луной."
 
-msgid "Chose favorite"
+msgid "Choose favorite"
 msgstr "Избранные"
 
 #, python-format
@@ -54,10 +54,10 @@ msgid "Current Weather"
 msgstr "Текущая погода"
 
 msgid "Default"
-msgstr "Дефолт"
+msgstr "По умолчанию"
 
 msgid "Defaults"
-msgstr "По дефолту"
+msgstr "По умолчанию"
 
 msgid "Delete"
 msgstr "Удалить"
@@ -67,13 +67,13 @@ msgstr "Отключено"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
 "Вы действительно хотите удалить избранное\n"
 "'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
+msgid "Do you really want to exit without saving your modified favorite list?"
 msgstr ""
 "Вы действительно хотите выйти, не сохранив измененный список избранного?"
 
@@ -87,7 +87,7 @@ msgid "Enable Debug"
 msgstr "Включить отладочный лог"
 
 msgid "Enabled"
-msgstr "Включить"
+msgstr "Включено"
 
 msgid ""
 "Enter the location for your weather forecasts. To include your location, "
@@ -176,7 +176,7 @@ msgid "Select 'Yes' to enable add debug output to log."
 msgstr "Выберите «Да», чтобы включить вывод отладочного лога в журнал."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Выберите «Да», чтобы включить настрйки «Погода»."
+msgstr "Выберите «Да», чтобы включить настройки «Погода»."
 
 msgid "Select desired location"
 msgstr "Выберите нужное местоположение"
@@ -254,7 +254,7 @@ msgid "Today"
 msgstr "Сегодня"
 
 msgid "Update"
-msgstr "Обнова"
+msgstr "Обновить"
 
 msgid "Weather Plugin"
 msgstr "Плагин погоды"
@@ -284,7 +284,7 @@ msgid "Weather service"
 msgstr "Сервис погоды"
 
 msgid "Weather API key v2.5"
-msgstr "Ваш API keyv2.5"
+msgstr "Ваш API key v2.5"
 
 msgid "Weather settings"
 msgstr "Настройки погоды"
@@ -299,31 +299,31 @@ msgid "m/s"
 msgstr "м/c"
 
 msgid "n/a"
-msgstr "n/a"
+msgstr "н/д"
 
 msgid "Show trend arrows for moon data"
 msgstr "Отображение стрелок тренда для лунных данных"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr "Показ стрелки тренда для освещения Луны и расстояния до нее, чтобы увидеть текущую динамику данных."
+msgstr "Показ стрелок тренда для освещения Луны и расстояния до неё, чтобы увидеть текущую динамику данных."
 
 msgid "More Details / Smaller font"
 msgstr "Более подробная информация / Мелкий шрифт"
 
 msgid "Less details / Larger font"
-msgstr "Меньше информация / Крупный шрифт"
+msgstr "Меньше информации / Крупный шрифт"
 
 msgid "Details +/-"
 msgstr "Подробно +/-"
 
 msgid "Glass"
-msgstr "Зеркало"
+msgstr "Лупа"
 
 msgid "Detail level in detail view"
 msgstr "Уровень детализации в режиме детального просмотра"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr "Выберите уровень детализации в режиме просмотра подробных сведений. У вас есть выбор между полным показом деталей выполненной более мелким шрифтом, и сокращенным показом деталей выполненной более крупным шрифтом."
+msgstr "Выберите уровень детализации в режиме просмотра подробных сведений. У вас есть выбор между полным показом деталей, выполненным более мелким шрифтом, и сокращённым показом деталей, выполненным более крупным шрифтом."
 
 msgid "↓ N"
 msgstr "↓ С"
@@ -345,40 +345,3 @@ msgstr "→ З"
 
 msgid "↘ NW"
 msgstr "↘ СЗ"
-
-#~ msgid ""
-#~ "Enter a personalized API key for use with OpenWeatherMap (https://"
-#~ "openweathermap.org/)."
-#~ msgstr ""
-#~ "Введите персональный ключ API для использования с OpenWeatherMap (https://"
-#~ "openweathermap.org/)."
-
-#~ msgid "Enter the location for your weather forecasts."
-#~ msgstr "Введите ваше местоположение для погоды."
-
-#~ msgid "Location Selection"
-#~ msgstr "Местоположение"
-
-#~ msgid "OpenWeatherMap"
-#~ msgstr "OpenWeatherMap"
-
-#~ msgid "Search for City ID please wait..."
-#~ msgstr "Найдите идентификатор города, пожалуйста, подождите..."
-
-#~ msgid "Select Your Location"
-#~ msgstr "Выберите своё местоположение"
-
-#~ msgid ""
-#~ "The API key for OpenWeatherMap is not defined or invalid.\n"
-#~ "Please verify your input data.\n"
-#~ "Otherwise your settings won't be saved."
-#~ msgstr ""
-#~ "Ключ API для OpenWeatherMap не определён или недействителен.\n"
-#~ "Пожалуйста, проверьте введённые данные.\n"
-#~ "В противном случае Ваши настройки не будут сохранены."
-
-#~ msgid "Exit overview"
-#~ msgstr "Выход"
-
-#~ msgid "Exit details"
-#~ msgstr "Выход"

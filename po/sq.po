@@ -21,13 +21,13 @@ msgstr ""
 
 #, python-format
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Minuta"
 
 msgid "Add"
-msgstr ""
+msgstr "Shto"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Të dhëna në cache"
 
 msgid "Celsius"
 msgstr "Celsius"
@@ -36,53 +36,57 @@ msgid ""
 "Choose the icon set. You need to create an additional set here: /usr/share/"
 "enigma2/WeatherIconSets/NAME."
 msgstr ""
+"Zgjidhni grupin e ikonave. Duhet të krijoni një grup shtesë këtu: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
 
 msgid ""
 "Choose whether the 'night switch' should be activated or not. Some icons are "
 "then displayed as night icons with moon."
 msgstr ""
+"Zgjidhni nëse 'ndërprerësi i natës' duhet të aktivizohet apo jo. Disa ikona "
+"shfaqen më pas si ikona nate me hënë."
 
-msgid "Chose favorite"
-msgstr ""
+msgid "Choose favorite"
+msgstr "Zgjidh të preferuarën"
 
 #, python-format
 msgid "City '%s' not found! Please try another wording."
-msgstr ""
+msgstr "Qyteti '%s' nuk u gjet! Ju lutemi provoni një formulim tjetër."
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Moti aktual"
 
-#, fuzzy
 msgid "Default"
-msgstr "Paracaktimet"
+msgstr "Paracaktim"
 
 msgid "Defaults"
 msgstr "Paracaktimet"
 
 msgid "Delete"
-msgstr ""
+msgstr "Fshi"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Çaktivizuar"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
+"A jeni të sigurt që dëshironi të fshini të preferuarën\n"
+"'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
-msgstr ""
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "A jeni të sigurt që dëshironi të dilni pa ruajtur listën e preferuara të modifikuar?"
 
 msgid "East"
-msgstr ""
+msgstr "Lindje"
 
 msgid "Edit"
-msgstr ""
+msgstr "Modifiko"
 
-#, fuzzy
 msgid "Enable Debug"
-msgstr "Aktivizuar"
+msgstr "Aktivizo korrigjimin"
 
 msgid "Enabled"
 msgstr "Aktivizuar"
@@ -91,199 +95,226 @@ msgid ""
 "Enter the location for your weather forecasts. To include your location, "
 "expand your favorites list with 'Manage your favorites'."
 msgstr ""
+"Vendosni vendndodhjen për parashikimet tuaja të motit. Për të përfshirë "
+"vendndodhjen tuaj, zgjeroni listën e preferuara me 'Menaxho të preferuarat'."
 
 msgid "Error getting City ID"
-msgstr ""
+msgstr "Gabim gjatë marrjes së ID-së së qytetit"
 
 msgid "Error in Weatherinfo"
-msgstr ""
+msgstr "Gabim në Weatherinfo"
 
 msgid "Fahrenheit"
 msgstr "Fahrenhajt"
 
 msgid "Favorites have been successfully saved!"
-msgstr ""
+msgstr "Të preferuarat u ruajtën me sukses!"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Ndjehet si"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Lagështia"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "Moti MSN"
 
 msgid "Manage favorites"
-msgstr ""
+msgstr "Menaxho të preferuarat"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Njësia metrike për shpejtësinë e erës"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "E preferuara tjetër"
 
 msgid "View details"
-msgstr ""
+msgstr "Shiko detajet"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Dita +/-"
 
 msgid "Settings"
-msgstr ""
+msgstr "Cilësimet"
 
 msgid "Manage your favorites"
-msgstr ""
+msgstr "Menaxhoni të preferuarat tuaja"
 
 msgid "No data available for this period."
-msgstr ""
+msgstr "Nuk ka të dhëna të disponueshme për këtë periudhë."
 
 msgid "No data available."
-msgstr ""
+msgstr "Nuk ka të dhëna të disponueshme."
 
 msgid "North"
-msgstr ""
+msgstr "Veri"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Verilindje"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Veriperëndim"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Moti Open-Meteo"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Reshjet"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "E preferuara e mëparshme"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Intervali i rifreskimit"
 
 msgid "Save"
-msgstr ""
+msgstr "Ruaj"
 
 msgid "Search for your city"
-msgstr ""
+msgstr "Kërkoni qytetin tuaj"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Zgjidhni 'Po' për të aktivizuar shtimin e daljes së korrigjimit në regjistër."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Zgjidhni 'Po' për të aktivizuar shtimin e Motit."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select desired location"
-msgstr "Përzgjidhni vendndodhjen tuaj"
+msgstr "Zgjidhni vendndodhjen e dëshiruar"
 
 msgid ""
 "Select the metric unit for wind speed to be used for wind displays. This has "
 "no effect on the imperial unit 'mph'."
 msgstr ""
+"Zgjidhni njësinë metrike për shpejtësinë e erës që do të përdoret për "
+"shfaqjen e erës. Kjo nuk ka asnjë efekt në njësinë perandorake 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Zgjidhni shërbimin e preferuar të motit për të furnizuar informacionin e motit."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Zgjidhni njësinë e temperaturës që do të përdoret për shfaqjen e temperaturës."
 
 msgid ""
 "Select this option to save that last obtained weather data locally. This is "
 "used to initialize the data immediately after restart while updated data is "
 "being fetched."
 msgstr ""
+"Zgjidhni këtë opsion për të ruajtur lokalisht të dhënat e fundit të marra të "
+"motit. Kjo përdoret për të inicializuar të dhënat menjëherë pas rinisjes, "
+"ndërsa të dhënat e përditësuara po merren."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select your location"
-msgstr "Përzgjidhni vendndodhjen tuaj"
+msgstr "Zgjidhni vendndodhjen tuaj"
 
 msgid "Set default values"
-msgstr ""
+msgstr "Vendos vlerat e paracaktuara"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Shfaq parashikimin e motit"
 
 msgid "South"
-msgstr ""
+msgstr "Jug"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Juglindje"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Jugperëndim"
 
 msgid ""
 "Specify how often Weather retrieves its data from the server. 'Once' means "
 "the data will loaded only once after a GUI or system start."
 msgstr ""
+"Specifikoni sa shpesh Moti i merr të dhënat e tij nga serveri. 'Një herë' "
+"do të thotë që të dhënat do të ngarkohen vetëm një herë pas nisjes së GUI ose "
+"sistemit."
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Njësia e temperaturës"
 
 msgid ""
 "The city name is too short. More than 2 characters are needed for search."
 msgstr ""
+"Emri i qytetit është shumë i shkurtër. Për kërkimin nevojiten më shumë se 2 "
+"karaktere."
 
 #, python-format
 msgid ""
 "The favorite '%s' corresponds to the set weather city name and therefore "
 "cannot be deleted."
 msgstr ""
+"E preferuara '%s' korrespondon me emrin e caktuar të qytetit të motit dhe "
+"për këtë arsye nuk mund të fshihet."
 
 msgid "Today"
-msgstr ""
+msgstr "Sot"
 
 msgid "Update"
-msgstr ""
+msgstr "Përditëso"
 
-#, fuzzy
 msgid "Weather Plugin"
-msgstr "Konfigurimi i motit"
+msgstr "Shtojca e motit"
 
-#, fuzzy
 msgid "Weather Plugin Detailview"
-msgstr "Konfigurimi i motit"
+msgstr "Pamja e detajuar e shtojcës së motit"
 
-#, fuzzy
 msgid "Weather Plugin Overview"
-msgstr "Konfigurimi i motit"
+msgstr "Përmbledhja e shtojcës së motit"
 
 msgid "Weather Settings Actions"
-msgstr ""
+msgstr "Veprimet e cilësimeve të motit"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Emri i qytetit të motit"
 
 msgid "Weather cityname (at least 3 letters):"
-msgstr ""
+msgstr "Emri i qytetit të motit (të paktën 3 shkronja):"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Ndërprerësi i natës i ikonave të motit"
 
-#, fuzzy
 msgid "Weather icon set"
-msgstr "Konfigurimi i motit"
+msgstr "Grupi i ikonave të motit"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Shërbimi i motit"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Çelësi API i motit v2.5"
 
 msgid "Weather settings"
 msgstr "Konfigurimi i motit"
 
 msgid "West"
-msgstr ""
+msgstr "Perëndim"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/h"
 
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ V"
+
+msgid "↙ NE"
+msgstr "↙ VL"
+
+msgid "← E"
+msgstr "← L"
+
+msgid "↖ SE"
+msgstr "↖ JL"
+
+msgid "↑ S"
+msgstr "↑ J"
+
+msgid "→ W"
+msgstr "→ P"
+
+msgid "↘ NW"
+msgstr "↘ VP"

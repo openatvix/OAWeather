@@ -56,7 +56,7 @@ msgstr ""
 "Εμφάνιση βελών τάσης για τη λαμπρότητα και την απόσταση της σελήνης για "
 "προβολή της τρέχουσας τάσης δεδομένων."
 
-msgid "Chose favorite"
+msgid "Choose favorite"
 msgstr "Επιλογή αγαπημένου"
 
 #, python-format
@@ -80,13 +80,13 @@ msgstr "Ανενεργό"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
 "Θέλετε πραγματικά να διαγράψετε το αγαπημένο\n"
 "'%s';"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
+msgid "Do you really want to exit without saving your modified favorite list?"
 msgstr ""
 "Θέλετε πραγματικά να γίνει έξοδος χωρίς να αποθηκευτεί η τροποποιημένη λίστα "
 "αγαπημένων;"

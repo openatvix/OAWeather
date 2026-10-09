@@ -17,10 +17,10 @@ msgstr ""
 
 #, python-format
 msgid "%d Minutes"
-msgstr "%d Хвилин"
+msgstr "%d хвилин"
 
 msgid "Add"
-msgstr ""
+msgstr "Додати"
 
 msgid "Cache data"
 msgstr "Кеш даних"
@@ -32,24 +32,26 @@ msgid ""
 "Choose the icon set. You need to create an additional set here: /usr/share/"
 "enigma2/WeatherIconSets/NAME."
 msgstr ""
+"Виберіть набір іконок. Вам потрібно створити додатковий набір тут: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
 
 msgid ""
 "Choose whether the 'night switch' should be activated or not. Some icons are "
 "then displayed as night icons with moon."
 msgstr ""
+"Виберіть, чи слід активувати «нічний перемикач». Деякі іконки тоді "
+"відображаються як нічні іконки з місяцем."
 
-msgid "Chose favorite"
-msgstr ""
+msgid "Choose favorite"
+msgstr "Вибрати улюблене"
 
 #, python-format
 msgid "City '%s' not found! Please try another wording."
 msgstr "Місто '%s' не знайдено! Спробуйте інше формулювання."
 
-#, fuzzy
 msgid "Current Weather"
-msgstr "Помилка в Weatherinfo"
+msgstr "Поточна погода"
 
-#, fuzzy
 msgid "Default"
 msgstr "За замовчуванням"
 
@@ -57,29 +59,30 @@ msgid "Defaults"
 msgstr "За замовчуванням"
 
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgid "Disabled"
 msgstr "Вимкнено"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
+"Ви дійсно хочете видалити улюблене\n"
+"'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
-msgstr ""
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "Ви дійсно хочете вийти без збереження зміненого списку улюблених?"
 
 msgid "East"
 msgstr "Схід"
 
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
-#, fuzzy
 msgid "Enable Debug"
-msgstr "Ввімкнуто"
+msgstr "Увімкнути налагодження"
 
 msgid "Enabled"
 msgstr "Ввімкнуто"
@@ -88,6 +91,8 @@ msgid ""
 "Enter the location for your weather forecasts. To include your location, "
 "expand your favorites list with 'Manage your favorites'."
 msgstr ""
+"Введіть місцезнаходження для ваших прогнозів погоди. Щоб включити своє "
+"місцезнаходження, розширте список улюблених за допомогою «Керування улюбленими»."
 
 msgid "Error getting City ID"
 msgstr "Помилка отримання ID міста"
@@ -96,198 +101,215 @@ msgid "Error in Weatherinfo"
 msgstr "Помилка в Weatherinfo"
 
 msgid "Fahrenheit"
-msgstr "Фарентгейт"
+msgstr "Фаренгейт"
 
 msgid "Favorites have been successfully saved!"
-msgstr ""
+msgstr "Улюблені успішно збережено!"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Відчувається як"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Вологість"
 
 msgid "MSN weather"
 msgstr "Погода MSN"
 
 msgid "Manage favorites"
-msgstr ""
+msgstr "Керування улюбленими"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Метрична одиниця для швидкості вітру"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Наступне улюблене"
 
 msgid "View details"
-msgstr ""
+msgstr "Переглянути подробиці"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "День +/-"
 
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgid "Manage your favorites"
-msgstr ""
+msgstr "Керуйте своїми улюбленими"
 
 msgid "No data available for this period."
-msgstr ""
+msgstr "Немає даних за цей період."
 
 msgid "No data available."
-msgstr ""
+msgstr "Немає доступних даних."
 
 msgid "North"
 msgstr "Північний"
 
 msgid "Northeast"
-msgstr "північно-східний"
+msgstr "Північно-східний"
 
 msgid "Northwest"
-msgstr "північно-західний"
+msgstr "Північно-західний"
 
 msgid "Open-Meteo Wetter"
 msgstr "Погода Open-Meteo"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Опади"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Попереднє улюблене"
 
 msgid "Refresh interval"
 msgstr "Інтервал оновлення"
 
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
-#, fuzzy
-#| msgid "Search for your City"
 msgid "Search for your city"
 msgstr "Знайти своє місто"
 
-#, fuzzy
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr "Виберіть 'Так', щоб увімкнути MetrixWeather на екран Інфопанелі."
+msgstr "Виберіть «Так», щоб увімкнути додавання налагоджувального виводу до журналу."
 
-#, fuzzy
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Виберіть 'Так', щоб увімкнути MetrixWeather на екран Інфопанелі."
+msgstr "Виберіть «Так», щоб увімкнути додавання погоди."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select desired location"
-msgstr "Виберіть своє місцезнаходження"
+msgstr "Виберіть бажане місцезнаходження"
 
 msgid ""
 "Select the metric unit for wind speed to be used for wind displays. This has "
 "no effect on the imperial unit 'mph'."
 msgstr ""
+"Виберіть метричну одиницю для швидкості вітру, яка використовуватиметься для "
+"відображення вітру. Це не впливає на імперську одиницю 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Виберіть бажаний погодний сервіс для надання інформації про погоду."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Виберіть одиницю температури, яка використовуватиметься для відображення температури."
 
 msgid ""
 "Select this option to save that last obtained weather data locally. This is "
 "used to initialize the data immediately after restart while updated data is "
 "being fetched."
 msgstr ""
+"Виберіть цю опцію, щоб зберегти останні отримані дані про погоду локально. "
+"Це використовується для ініціалізації даних одразу після перезапуску, поки "
+"завантажуються оновлені дані."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select your location"
 msgstr "Виберіть своє місцезнаходження"
 
 msgid "Set default values"
-msgstr ""
+msgstr "Встановити значення за замовчуванням"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Показати прогноз погоди"
 
 msgid "South"
-msgstr ""
+msgstr "Південний"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Південно-східний"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Південно-західний"
 
 msgid ""
 "Specify how often Weather retrieves its data from the server. 'Once' means "
 "the data will loaded only once after a GUI or system start."
 msgstr ""
+"Вкажіть, як часто погода отримує свої дані з сервера. «Один раз» означає, "
+"що дані завантажуватимуться лише один раз після запуску графічного "
+"інтерфейсу або системи."
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Одиниця температури"
 
 msgid ""
 "The city name is too short. More than 2 characters are needed for search."
 msgstr ""
+"Назва міста занадто коротка. Для пошуку потрібно більше 2 символів."
 
 #, python-format
 msgid ""
 "The favorite '%s' corresponds to the set weather city name and therefore "
 "cannot be deleted."
 msgstr ""
+"Улюблене '%s' відповідає встановленій назві міста погоди, тому його "
+"не можна видалити."
 
 msgid "Today"
-msgstr ""
+msgstr "Сьогодні"
 
 msgid "Update"
-msgstr ""
+msgstr "Оновити"
 
-#, fuzzy
 msgid "Weather Plugin"
-msgstr "Налаштування погоди"
+msgstr "Плагін погоди"
 
-#, fuzzy
 msgid "Weather Plugin Detailview"
-msgstr "Налаштування погоди"
+msgstr "Детальний перегляд плагіна погоди"
 
-#, fuzzy
 msgid "Weather Plugin Overview"
-msgstr "Налаштування погоди"
+msgstr "Огляд плагіна погоди"
 
 msgid "Weather Settings Actions"
-msgstr ""
+msgstr "Дії з налаштувань погоди"
 
 msgid "Weather city name"
-msgstr "Назва міста MetrixWeather"
+msgstr "Назва міста погоди"
 
 msgid "Weather cityname (at least 3 letters):"
-msgstr ""
+msgstr "Назва міста погоди (щонайменше 3 літери):"
 
-#, fuzzy
 msgid "Weather icon night switch"
-msgstr "Шлях до іконок MetrixWeather"
+msgstr "Нічний перемикач іконок погоди"
 
-#, fuzzy
 msgid "Weather icon set"
-msgstr "Шлях до іконок MetrixWeather"
+msgstr "Набір іконок погоди"
 
 msgid "Weather service"
-msgstr "Сервіс MetrixWeather"
+msgstr "Сервіс погоди"
 
-#, fuzzy
-#| msgid "Weather API key"
 msgid "Weather API key v2.5"
-msgstr "Ключ API MetrixWeather"
+msgstr "Ключ API погоди v2.5"
 
 msgid "Weather settings"
 msgstr "Налаштування погоди"
 
 msgid "West"
-msgstr ""
+msgstr "Західний"
 
 msgid "km/h"
-msgstr ""
+msgstr "км/год"
 
 msgid "m/s"
-msgstr ""
+msgstr "м/с"
 
 msgid "n/a"
-msgstr ""
+msgstr "Н/Д"
+
+msgid "↓ N"
+msgstr "↓ Пн"
+
+msgid "↙ NE"
+msgstr "↙ ПнСх"
+
+msgid "← E"
+msgstr "← Сх"
+
+msgid "↖ SE"
+msgstr "↖ ПдСх"
+
+msgid "↑ S"
+msgstr "↑ Пд"
+
+msgid "→ W"
+msgstr "→ Зх"
+
+msgid "↘ NW"
+msgstr "↘ ПнЗх"

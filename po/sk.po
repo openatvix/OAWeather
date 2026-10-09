@@ -17,13 +17,13 @@ msgstr ""
 
 #, python-format
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minút"
 
 msgid "Add"
-msgstr ""
+msgstr "Pridať"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Údaje vyrovnávacej pamäte"
 
 msgid "Celsius"
 msgstr "Stupne Celzia"
@@ -32,53 +32,57 @@ msgid ""
 "Choose the icon set. You need to create an additional set here: /usr/share/"
 "enigma2/WeatherIconSets/NAME."
 msgstr ""
+"Vyberte sadu ikon. Tu musíte vytvoriť dodatočnú sadu: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
 
 msgid ""
 "Choose whether the 'night switch' should be activated or not. Some icons are "
 "then displayed as night icons with moon."
 msgstr ""
+"Vyberte, či sa má aktivovať 'nočný prepínač'. Niektoré ikony sa potom "
+"zobrazujú ako nočné ikony s mesiacom."
 
-msgid "Chose favorite"
-msgstr ""
+msgid "Choose favorite"
+msgstr "Vybrať obľúbené"
 
 #, python-format
 msgid "City '%s' not found! Please try another wording."
-msgstr ""
+msgstr "Mesto '%s' sa nenašlo! Skúste prosím inú formuláciu."
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Aktuálne počasie"
 
-#, fuzzy
 msgid "Default"
-msgstr "Východzie"
+msgstr "Predvolené"
 
 msgid "Defaults"
 msgstr "Východzie"
 
 msgid "Delete"
-msgstr ""
+msgstr "Odstrániť"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Zakázané"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
+"Naozaj chcete odstrániť obľúbené\n"
+"'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
-msgstr ""
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "Naozaj chcete ukončiť bez uloženia upraveného zoznamu obľúbených?"
 
 msgid "East"
-msgstr ""
+msgstr "Východ"
 
 msgid "Edit"
-msgstr ""
+msgstr "Upraviť"
 
-#, fuzzy
 msgid "Enable Debug"
-msgstr "Povolené"
+msgstr "Povoliť ladenie"
 
 msgid "Enabled"
 msgstr "Povolené"
@@ -87,203 +91,225 @@ msgid ""
 "Enter the location for your weather forecasts. To include your location, "
 "expand your favorites list with 'Manage your favorites'."
 msgstr ""
+"Zadajte lokalitu pre vaše predpovede počasia. Ak chcete zahrnúť svoju "
+"lokalitu, rozšírte zoznam obľúbených pomocou 'Spravovať obľúbené'."
 
 msgid "Error getting City ID"
-msgstr ""
+msgstr "Chyba pri získavaní ID mesta"
 
 msgid "Error in Weatherinfo"
-msgstr ""
+msgstr "Chyba v Weatherinfo"
 
 msgid "Fahrenheit"
 msgstr "Stupne Fahrenheita"
 
 msgid "Favorites have been successfully saved!"
-msgstr ""
+msgstr "Obľúbené boli úspešne uložené!"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Pocitová teplota"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Vlhkosť"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "Počasie MSN"
 
 msgid "Manage favorites"
-msgstr ""
+msgstr "Spravovať obľúbené"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrická jednotka pre rýchlosť vetra"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Ďalšie obľúbené"
 
 msgid "View details"
-msgstr ""
+msgstr "Zobraziť podrobnosti"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Deň +/-"
 
 msgid "Settings"
-msgstr ""
+msgstr "Nastavenia"
 
 msgid "Manage your favorites"
-msgstr ""
+msgstr "Spravujte svoje obľúbené"
 
 msgid "No data available for this period."
-msgstr ""
+msgstr "Pre toto obdobie nie sú k dispozícii žiadne údaje."
 
 msgid "No data available."
-msgstr ""
+msgstr "Nie sú k dispozícii žiadne údaje."
 
 msgid "North"
-msgstr ""
+msgstr "Sever"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Severovýchod"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Severozápad"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Počasie Open-Meteo"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Zrážky"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Predchádzajúce obľúbené"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Interval obnovenia"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 msgid "Search for your city"
-msgstr ""
+msgstr "Vyhľadajte svoje mesto"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Vyberte 'Áno' pre povolenie pridávania ladiacich výstupov do protokolu."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Vyberte 'Áno' pre povolenie pridania počasia."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select desired location"
-msgstr "Vyberte Vaše umiestnenie"
+msgstr "Vyberte požadovanú lokalitu"
 
 msgid ""
 "Select the metric unit for wind speed to be used for wind displays. This has "
 "no effect on the imperial unit 'mph'."
 msgstr ""
+"Vyberte metrickú jednotku rýchlosti vetra, ktorá sa má používať na "
+"zobrazovanie vetra. Nemá to žiadny vplyv na imperiálnu jednotku 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Vyberte preferovanú službu počasia, ktorá bude poskytovať informácie o počasí."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Vyberte jednotku teploty, ktorá sa má používať na zobrazovanie teploty."
 
 msgid ""
 "Select this option to save that last obtained weather data locally. This is "
 "used to initialize the data immediately after restart while updated data is "
 "being fetched."
 msgstr ""
+"Vyberte túto možnosť, ak chcete uložiť naposledy získané údaje o počasí "
+"lokálne. Používa sa to na inicializáciu údajov hneď po reštarte, zatiaľ čo "
+"sa načítavajú aktualizované údaje."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select your location"
-msgstr "Vyberte Vaše umiestnenie"
+msgstr "Vyberte svoju lokalitu"
 
 msgid "Set default values"
-msgstr ""
+msgstr "Nastaviť predvolené hodnoty"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Zobraziť predpoveď počasia"
 
 msgid "South"
-msgstr ""
+msgstr "Juh"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Juhovýchod"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Juhozápad"
 
-#, fuzzy
 msgid ""
 "Specify how often Weather retrieves its data from the server. 'Once' means "
 "the data will loaded only once after a GUI or system start."
 msgstr ""
-"Určete, jak často MetrixWeather načítá data ze serveru. 'Jednou' znamená, že "
-"se data načtou pouze jednou po spuštění grafického uživatelského rozhraní "
-"nebo systému."
+"Určte, ako často Počasie načítava svoje údaje zo servera. 'Raz' znamená, že "
+"sa údaje načítajú iba raz po spustení grafického používateľského rozhrania "
+"alebo systému."
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Jednotka teploty"
 
 msgid ""
 "The city name is too short. More than 2 characters are needed for search."
 msgstr ""
+"Názov mesta je príliš krátky. Na vyhľadávanie sú potrebné viac ako 2 znaky."
 
 #, python-format
 msgid ""
 "The favorite '%s' corresponds to the set weather city name and therefore "
 "cannot be deleted."
 msgstr ""
+"Obľúbené '%s' zodpovedá nastavenému názvu mesta počasia, a preto ho "
+"nemožno odstrániť."
 
 msgid "Today"
-msgstr ""
+msgstr "Dnes"
 
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovať"
 
-#, fuzzy
 msgid "Weather Plugin"
-msgstr "Nastavenia počasia"
+msgstr "Zásuvný modul počasia"
 
-#, fuzzy
 msgid "Weather Plugin Detailview"
-msgstr "Nastavenia počasia"
+msgstr "Detailné zobrazenie zásuvného modulu počasia"
 
-#, fuzzy
 msgid "Weather Plugin Overview"
-msgstr "Nastavenia počasia"
+msgstr "Prehľad zásuvného modulu počasia"
 
 msgid "Weather Settings Actions"
-msgstr ""
+msgstr "Akcie nastavení počasia"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Názov mesta počasia"
 
 msgid "Weather cityname (at least 3 letters):"
-msgstr ""
+msgstr "Názov mesta počasia (aspoň 3 písmená):"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Nočný prepínač ikon počasia"
 
-#, fuzzy
 msgid "Weather icon set"
-msgstr "Nastavenia počasia"
+msgstr "Sada ikon počasia"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Služba počasia"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "API kľúč počasia v2.5"
 
 msgid "Weather settings"
 msgstr "Nastavenia počasia"
 
 msgid "West"
-msgstr ""
+msgstr "Západ"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/h"
 
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ S"
+
+msgid "↙ NE"
+msgstr "↙ SV"
+
+msgid "← E"
+msgstr "← V"
+
+msgid "↖ SE"
+msgstr "↖ JV"
+
+msgid "↑ S"
+msgstr "↑ J"
+
+msgid "→ W"
+msgstr "→ Z"
+
+msgid "↘ NW"
+msgstr "↘ SZ"

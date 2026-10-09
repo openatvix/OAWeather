@@ -52,7 +52,7 @@ msgstr ""
 "Zeigen Sie Trendpfeile für Mondbeleuchtung und Mondabstand an, um den "
 "aktuellen Trend der Daten zu sehen."
 
-msgid "Chose favorite"
+msgid "Choose favorite"
 msgstr "Wähle Favorit"
 
 #, python-format
@@ -78,13 +78,13 @@ msgstr "Deaktiviert"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
 "Wollen Sie wirklich diesen Favorit löschen\n"
 "'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
+msgid "Do you really want to exit without saving your modified favorite list?"
 msgstr ""
 "Wollen Sie wirklich verlassen, ohne Ihre geänderte Favoritenliste zu "
 "speichern?"

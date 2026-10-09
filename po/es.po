@@ -24,7 +24,7 @@ msgid "%d Minutes"
 msgstr "%d Minutos"
 
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 msgid "Cache data"
 msgstr "Datos en cache"
@@ -36,54 +36,57 @@ msgid ""
 "Choose the icon set. You need to create an additional set here: /usr/share/"
 "enigma2/WeatherIconSets/NAME."
 msgstr ""
+"Elija el conjunto de iconos. Debe crear un conjunto adicional aquí: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
 
 msgid ""
 "Choose whether the 'night switch' should be activated or not. Some icons are "
 "then displayed as night icons with moon."
 msgstr ""
+"Elija si se debe activar o no el 'interruptor nocturno'. Algunos iconos se "
+"muestran entonces como iconos nocturnos con luna."
 
-msgid "Chose favorite"
-msgstr ""
+msgid "Choose favorite"
+msgstr "Elegir favorito"
 
 #, python-format
 msgid "City '%s' not found! Please try another wording."
-msgstr "Ciudad '%s' no encontrada! Por favor prueba con otra palabta."
+msgstr "¡Ciudad '%s' no encontrada! Por favor, pruebe con otra palabra."
 
-#, fuzzy
 msgid "Current Weather"
-msgstr "Error en Weatherinfo"
+msgstr "Tiempo actual"
 
-#, fuzzy
 msgid "Default"
-msgstr "Valores predefinidos"
+msgstr "Predeterminado"
 
 msgid "Defaults"
 msgstr "Valores predefinidos"
 
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Disabled"
 msgstr "Deshabilitado"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
+"¿Realmente desea eliminar el favorito\n"
+"'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
-msgstr ""
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "¿Realmente desea salir sin guardar su lista de favoritos modificada?"
 
 msgid "East"
 msgstr "Este"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
-#, fuzzy
 msgid "Enable Debug"
-msgstr "Habilitado"
+msgstr "Habilitar depuración"
 
 msgid "Enabled"
 msgstr "Habilitado"
@@ -92,6 +95,8 @@ msgid ""
 "Enter the location for your weather forecasts. To include your location, "
 "expand your favorites list with 'Manage your favorites'."
 msgstr ""
+"Introduzca la ubicación para sus pronósticos meteorológicos. Para incluir su "
+"ubicación, amplíe su lista de favoritos con 'Administrar sus favoritos'."
 
 msgid "Error getting City ID"
 msgstr "Error al obtener el ID de la ciudad"
@@ -103,43 +108,43 @@ msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
 msgid "Favorites have been successfully saved!"
-msgstr ""
+msgstr "¡Los favoritos se han guardado correctamente!"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Sensación térmica"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Humedad"
 
 msgid "MSN weather"
 msgstr "El tiempo en MSN"
 
 msgid "Manage favorites"
-msgstr ""
+msgstr "Administrar favoritos"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Unidad métrica para la velocidad del viento"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Siguiente favorito"
 
 msgid "View details"
-msgstr ""
+msgstr "Ver detalles"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Día +/-"
 
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 msgid "Manage your favorites"
-msgstr ""
+msgstr "Administrar sus favoritos"
 
 msgid "No data available for this period."
-msgstr ""
+msgstr "No hay datos disponibles para este período."
 
 msgid "No data available."
-msgstr ""
+msgstr "No hay datos disponibles."
 
 msgid "North"
 msgstr "Norte"
@@ -151,46 +156,39 @@ msgid "Northwest"
 msgstr "Noroeste"
 
 msgid "Open-Meteo Wetter"
-msgstr "Humedad Open-Meteo"
+msgstr "Open-Meteo Wetter"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Precipitación"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Favorito anterior"
 
 msgid "Refresh interval"
 msgstr "Intervalo de actualización"
 
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
-#, fuzzy
-#| msgid "Search for your City"
 msgid "Search for your city"
 msgstr "Busque su ciudad"
 
-#, fuzzy
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
-"Seleccione \"Sí\" para activar la adición de MetrixWeather a la pantalla de "
-"la barra de información."
+msgstr "Seleccione 'Sí' para habilitar la salida de depuración en el registro."
 
-#, fuzzy
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
-"Seleccione \"Sí\" para activar la adición de MetrixWeather a la pantalla de "
-"la barra de información."
+msgstr "Seleccione 'Sí' para habilitar la adición de Weather."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select desired location"
-msgstr "Seleccione su ubicación"
+msgstr "Seleccione la ubicación deseada"
 
 msgid ""
 "Select the metric unit for wind speed to be used for wind displays. This has "
 "no effect on the imperial unit 'mph'."
 msgstr ""
+"Seleccione la unidad métrica para la velocidad del viento que se utilizará "
+"en las visualizaciones del viento. Esto no tiene efecto en la unidad "
+"imperial 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr ""
@@ -212,8 +210,6 @@ msgstr ""
 "inmediatamente después de reiniciar mientras se obtienen los datos "
 "actualizados."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select your location"
 msgstr "Seleccione su ubicación"
 
@@ -221,7 +217,7 @@ msgid "Set default values"
 msgstr "Establecer los valores por defecto"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Mostrar pronóstico del tiempo"
 
 msgid "South"
 msgstr "Sur"
@@ -232,13 +228,12 @@ msgstr "Sureste"
 msgid "Southwest"
 msgstr "Suroeste"
 
-#, fuzzy
 msgid ""
 "Specify how often Weather retrieves its data from the server. 'Once' means "
 "the data will loaded only once after a GUI or system start."
 msgstr ""
-"Especifique la frecuencia con la que MetrixWeather recupera sus datos del "
-"servidor. Una vez\" significa que los datos se cargarán sólo una vez después "
+"Especifique la frecuencia con la que Weather recupera sus datos del "
+"servidor. 'Una vez' significa que los datos se cargarán sólo una vez después "
 "de un inicio de la GUI o del sistema."
 
 msgid "Temperature unit"
@@ -255,49 +250,44 @@ msgid ""
 "The favorite '%s' corresponds to the set weather city name and therefore "
 "cannot be deleted."
 msgstr ""
+"El favorito '%s' corresponde al nombre de ciudad meteorológica establecido y "
+"por lo tanto no se puede eliminar."
 
 msgid "Today"
-msgstr ""
+msgstr "Hoy"
 
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
-#, fuzzy
 msgid "Weather Plugin"
-msgstr "Ajustes meteorológicos"
+msgstr "Complemento del tiempo"
 
-#, fuzzy
 msgid "Weather Plugin Detailview"
-msgstr "Ajustes meteorológicos"
+msgstr "Vista detallada del complemento del tiempo"
 
-#, fuzzy
 msgid "Weather Plugin Overview"
-msgstr "Ajustes meteorológicos"
+msgstr "Vista general del complemento del tiempo"
 
 msgid "Weather Settings Actions"
 msgstr "Acciones de la configuración meteorológica"
 
 msgid "Weather city name"
-msgstr "Nombre de la ciudad en MetrixWeather"
+msgstr "Nombre de la ciudad meteorológica"
 
 msgid "Weather cityname (at least 3 letters):"
-msgstr ""
+msgstr "Nombre de la ciudad meteorológica (al menos 3 letras):"
 
-#, fuzzy
 msgid "Weather icon night switch"
-msgstr "Ruta del icono de MetrixWeather"
+msgstr "Interruptor nocturno del icono meteorológico"
 
-#, fuzzy
 msgid "Weather icon set"
-msgstr "Ruta del icono de MetrixWeather"
+msgstr "Conjunto de iconos meteorológicos"
 
 msgid "Weather service"
-msgstr "Servicio MetrixWeather"
+msgstr "Servicio meteorológico"
 
-#, fuzzy
-#| msgid "Weather API key"
 msgid "Weather API key v2.5"
-msgstr "Clave API de MetrixWeather"
+msgstr "Clave API meteorológica v2.5"
 
 msgid "Weather settings"
 msgstr "Ajustes meteorológicos"
@@ -306,10 +296,31 @@ msgid "West"
 msgstr "Oeste"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/h"
 
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ N"
+
+msgid "↙ NE"
+msgstr "↙ NE"
+
+msgid "← E"
+msgstr "← E"
+
+msgid "↖ SE"
+msgstr "↖ SE"
+
+msgid "↑ S"
+msgstr "↑ S"
+
+msgid "→ W"
+msgstr "→ O"
+
+msgid "↘ NW"
+msgstr "↘ NO"

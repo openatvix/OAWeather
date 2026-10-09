@@ -22,13 +22,13 @@ msgstr ""
 
 #, python-format
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minučių"
 
 msgid "Add"
-msgstr ""
+msgstr "Pridėti"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Talpyklos duomenys"
 
 msgid "Celsius"
 msgstr "Pagal Celsijų"
@@ -37,53 +37,57 @@ msgid ""
 "Choose the icon set. You need to create an additional set here: /usr/share/"
 "enigma2/WeatherIconSets/NAME."
 msgstr ""
+"Pasirinkite piktogramų rinkinį. Turite sukurti papildomą rinkinį čia: /usr/"
+"share/enigma2/WeatherIconSets/NAME."
 
 msgid ""
 "Choose whether the 'night switch' should be activated or not. Some icons are "
 "then displayed as night icons with moon."
 msgstr ""
+"Pasirinkite, ar 'naktinis jungiklis' turi būti įjungtas, ar ne. Kai kurios "
+"piktogramos tada rodomos kaip naktinės piktogramos su mėnuliu."
 
-msgid "Chose favorite"
-msgstr ""
+msgid "Choose favorite"
+msgstr "Pasirinkti mėgstamą"
 
 #, python-format
 msgid "City '%s' not found! Please try another wording."
-msgstr ""
+msgstr "Miestas '%s' nerastas! Bandykite kitą formuluotę."
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Dabartinis oras"
 
-#, fuzzy
 msgid "Default"
-msgstr "Numatytieji"
+msgstr "Numatytasis"
 
 msgid "Defaults"
 msgstr "Numatytieji"
 
 msgid "Delete"
-msgstr ""
+msgstr "Ištrinti"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Išjungta"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
+"Ar tikrai norite ištrinti mėgstamą\n"
+"'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
-msgstr ""
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "Ar tikrai norite išeiti neįrašę pakeisto mėgstamų sąrašo?"
 
 msgid "East"
-msgstr ""
+msgstr "Rytai"
 
 msgid "Edit"
-msgstr ""
+msgstr "Redaguoti"
 
-#, fuzzy
 msgid "Enable Debug"
-msgstr "Įjungta"
+msgstr "Įjungti derinimą"
 
 msgid "Enabled"
 msgstr "Įjungta"
@@ -92,199 +96,225 @@ msgid ""
 "Enter the location for your weather forecasts. To include your location, "
 "expand your favorites list with 'Manage your favorites'."
 msgstr ""
+"Įveskite vietą savo orų prognozėms. Norėdami įtraukti savo vietą, išplėskite "
+"mėgstamų sąrašą naudodami 'Tvarkyti mėgstamus'."
 
 msgid "Error getting City ID"
-msgstr ""
+msgstr "Klaida gaunant miesto ID"
 
 msgid "Error in Weatherinfo"
-msgstr ""
+msgstr "Klaida orų informacijoje"
 
 msgid "Fahrenheit"
 msgstr "Pagal Farenheitą"
 
 msgid "Favorites have been successfully saved!"
-msgstr ""
+msgstr "Mėgstami sėkmingai įrašyti!"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Juntama kaip"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Drėgmė"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN orai"
 
 msgid "Manage favorites"
-msgstr ""
+msgstr "Tvarkyti mėgstamus"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrinis vėjo greičio vienetas"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Kitas mėgstamas"
 
 msgid "View details"
-msgstr ""
+msgstr "Peržiūrėti išsamesnę informaciją"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Diena +/-"
 
 msgid "Settings"
-msgstr ""
+msgstr "Nustatymai"
 
 msgid "Manage your favorites"
-msgstr ""
+msgstr "Tvarkykite savo mėgstamus"
 
 msgid "No data available for this period."
-msgstr ""
+msgstr "Šiam laikotarpiui duomenų nėra."
 
 msgid "No data available."
-msgstr ""
+msgstr "Duomenų nėra."
 
 msgid "North"
-msgstr ""
+msgstr "Šiaurė"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Šiaurės rytai"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Šiaurės vakarai"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo orai"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Krituliai"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Ankstesnis mėgstamas"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Atnaujinimo intervalas"
 
 msgid "Save"
-msgstr ""
+msgstr "Įrašyti"
 
 msgid "Search for your city"
-msgstr ""
+msgstr "Ieškokite savo miesto"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Pasirinkite 'Taip', kad įjungtumėte derinimo išvesties pridėjimą prie žurnalo."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Pasirinkite 'Taip', kad įjungtumėte oro pridėjimą."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select desired location"
-msgstr "Pasirinkite savo vietą"
+msgstr "Pasirinkite pageidaujamą vietą"
 
 msgid ""
 "Select the metric unit for wind speed to be used for wind displays. This has "
 "no effect on the imperial unit 'mph'."
 msgstr ""
+"Pasirinkite metrinį vėjo greičio vienetą, kuris bus naudojamas vėjo "
+"rodymui. Tai neturi įtakos imperiniam vienetui 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Pasirinkite pageidaujamą orų tarnybą, kuri teiktų orų informaciją."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Pasirinkite temperatūros vienetą, kuris bus naudojamas temperatūrai rodyti."
 
 msgid ""
 "Select this option to save that last obtained weather data locally. This is "
 "used to initialize the data immediately after restart while updated data is "
 "being fetched."
 msgstr ""
+"Pasirinkite šią parinktį, kad paskutiniai gauti orų duomenys būtų įrašyti "
+"vietiškai. Tai naudojama duomenims inicijuoti iš karto po pakartotinio "
+"paleidimo, kol gaunami atnaujinti duomenys."
 
-#, fuzzy
-#| msgid "Select Your Location"
 msgid "Select your location"
 msgstr "Pasirinkite savo vietą"
 
 msgid "Set default values"
-msgstr ""
+msgstr "Nustatyti numatytąsias reikšmes"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Rodyti orų prognozę"
 
 msgid "South"
-msgstr ""
+msgstr "Pietūs"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Pietryčiai"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Pietvakariai"
 
 msgid ""
 "Specify how often Weather retrieves its data from the server. 'Once' means "
 "the data will loaded only once after a GUI or system start."
 msgstr ""
+"Nurodykite, kaip dažnai orai gauna duomenis iš serverio. 'Vieną kartą' "
+"reiškia, kad duomenys bus įkeliami tik vieną kartą po grafinės sąsajos ar "
+"sistemos paleidimo."
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperatūros vienetas"
 
 msgid ""
 "The city name is too short. More than 2 characters are needed for search."
 msgstr ""
+"Miesto pavadinimas per trumpas. Paieškai reikia daugiau nei 2 simbolių."
 
 #, python-format
 msgid ""
 "The favorite '%s' corresponds to the set weather city name and therefore "
 "cannot be deleted."
 msgstr ""
+"Mėgstamas '%s' atitinka nustatytą orų miesto pavadinimą, todėl jo "
+"negalima ištrinti."
 
 msgid "Today"
-msgstr ""
+msgstr "Šiandien"
 
 msgid "Update"
-msgstr ""
+msgstr "Atnaujinti"
 
-#, fuzzy
 msgid "Weather Plugin"
-msgstr "Orų nustatymai"
+msgstr "Oro papildinys"
 
-#, fuzzy
 msgid "Weather Plugin Detailview"
-msgstr "Orų nustatymai"
+msgstr "Oro papildinio išsamesnė peržiūra"
 
-#, fuzzy
 msgid "Weather Plugin Overview"
-msgstr "Orų nustatymai"
+msgstr "Oro papildinio apžvalga"
 
 msgid "Weather Settings Actions"
-msgstr ""
+msgstr "Orų nustatymų veiksmai"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Orų miesto pavadinimas"
 
 msgid "Weather cityname (at least 3 letters):"
-msgstr ""
+msgstr "Orų miesto pavadinimas (bent 3 raidės):"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Orų piktogramos naktinis jungiklis"
 
-#, fuzzy
 msgid "Weather icon set"
-msgstr "Orų nustatymai"
+msgstr "Orų piktogramų rinkinys"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Orų tarnyba"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Orų API raktas v2.5"
 
 msgid "Weather settings"
 msgstr "Orų nustatymai"
 
 msgid "West"
-msgstr ""
+msgstr "Vakarai"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/h"
 
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ Š"
+
+msgid "↙ NE"
+msgstr "↙ ŠR"
+
+msgid "← E"
+msgstr "← R"
+
+msgid "↖ SE"
+msgstr "↖ PR"
+
+msgid "↑ S"
+msgstr "↑ P"
+
+msgid "→ W"
+msgstr "→ V"
+
+msgid "↘ NW"
+msgstr "↘ ŠV"

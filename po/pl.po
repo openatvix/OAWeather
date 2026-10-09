@@ -39,7 +39,7 @@ msgstr "Pokaż strzałki trendu dla danych księżycowych"
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
 msgstr "Pokaż strzałki trendu dla oświetlenia Księżyca i odległości do Księżyca, aby zobaczyć aktualny trend danych."
 
-msgid "Chose favorite"
+msgid "Choose favorite"
 msgstr "Wybierz ulubione"
 
 #, python-format
@@ -63,13 +63,13 @@ msgstr "Wyłączone"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
 "Czy na pewno chcesz usunąć ulubione\n"
 "'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
+msgid "Do you really want to exit without saving your modified favorite list?"
 msgstr "Czy na pewno chcesz wyjść bez zapisywania zmodyfikowanej listy ulubionych?"
 
 msgid "East"
@@ -127,10 +127,10 @@ msgid "View details"
 msgstr "Zobacz szczegóły"
 
 msgid "Day +/-"
-msgstr "Dzień"
+msgstr "Dzień +/-"
 
 msgid "Details +/-"
-msgstr "Szczegóły"
+msgstr "Szczegóły +/-"
 
 msgid "Settings"
 msgstr "Ustawienia"
@@ -160,7 +160,7 @@ msgid "Open-Meteo Wetter"
 msgstr "Pogoda Open-Meteo"
 
 msgid "Precipitation"
-msgstr "Opady deszczu"
+msgstr "Opady"
 
 msgid "Previous favorite"
 msgstr "Poprzedni ulubiony"
@@ -223,7 +223,7 @@ msgid "Southwest"
 msgstr "Południowy zachód"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr "Określ, jak często pobiera dane z serwera. „Raz” oznacza, że dane zostaną załadowane tylko raz po uruchomieniu GUI lub systemu."
+msgstr "Określ, jak często Weather pobiera dane z serwera. „Raz” oznacza, że dane zostaną załadowane tylko raz po uruchomieniu GUI lub systemu."
 
 msgid "Temperature unit"
 msgstr "Jednostka temperatury"
@@ -239,16 +239,16 @@ msgid "Today"
 msgstr "Dzisiaj"
 
 msgid "Update"
-msgstr "Z godziny"
+msgstr "Aktualizuj"
 
 msgid "Weather Plugin"
 msgstr "Wtyczka Pogody"
 
 msgid "Weather Plugin Detailview"
-msgstr "Szczegółowy widok pogody"
+msgstr "Widok szczegółowy wtyczki pogody"
 
 msgid "Weather Plugin Overview"
-msgstr "Przegląd pogody"
+msgstr "Przegląd wtyczki pogody"
 
 msgid "Weather Settings Actions"
 msgstr "Akcje ustawień pogodowych"
@@ -296,7 +296,7 @@ msgid "← E"
 msgstr "← W"
 
 msgid "↖ SE"
-msgstr "↖ PW"
+msgstr "↖ PD"
 
 msgid "↑ S"
 msgstr "↑ P"

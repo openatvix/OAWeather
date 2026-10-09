@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the OAWeather package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OAWeather\n"
@@ -19,6 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
+#, python-format
 msgid "%d Minutes"
 msgstr "%d Minuti"
 
@@ -55,7 +55,7 @@ msgstr ""
 "Mostra le frecce di tendenza per l'illuminazione lunare e la distanza della "
 "luna per vedere l'andamento attuale dei dati."
 
-msgid "Chose favorite"
+msgid "Choose favorite"
 msgstr "Scegli il preferito"
 
 msgid "City '%s' not found! Please try another wording."
@@ -78,13 +78,13 @@ msgstr "Disabilitato"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
 "Vuoi davvero eliminare i preferiti\n"
 "'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
+msgid "Do you really want to exit without saving your modified favorite list?"
 msgstr "Vuoi davvero uscire senza salvare l'elenco dei preferiti modificato?"
 
 msgid "East"
@@ -97,7 +97,7 @@ msgid "Enable Debug"
 msgstr "Abilita debug"
 
 msgid "Enabled"
-msgstr "Abilita"
+msgstr "Abilitato"
 
 msgid ""
 "Enter the location for your weather forecasts. To include your location, "
@@ -146,7 +146,7 @@ msgid "View details"
 msgstr "Visualizza dettagli"
 
 msgid "Day +/-"
-msgstr "Giono +/-"
+msgstr "Giorno +/-"
 
 msgid "Details +/-"
 msgstr "Dettagli +/-"
@@ -155,7 +155,7 @@ msgid "Settings"
 msgstr "Impostazioni"
 
 msgid "Glass"
-msgstr ""
+msgstr "Lente"
 
 msgid "Manage your favorites"
 msgstr "Gestisci i tuoi preferiti"
@@ -286,16 +286,16 @@ msgid "Today"
 msgstr "Oggi"
 
 msgid "Update"
-msgstr "Aggiornato"
+msgstr "Aggiorna"
 
 msgid "Weather Plugin"
-msgstr "Weather Plugin"
+msgstr "Plugin Meteo"
 
 msgid "Weather Plugin Detailview"
-msgstr "Weather Plugin"
+msgstr "Vista dettagliata Plugin Meteo"
 
 msgid "Weather Plugin Overview"
-msgstr "Weather Plugin"
+msgstr "Panoramica Plugin Meteo"
 
 msgid "Weather Settings Actions"
 msgstr "Azioni impostazioni meteo"
@@ -310,12 +310,11 @@ msgid "Weather icon night switch"
 msgstr "Attiva le icone notturne"
 
 msgid "Weather icon set"
-msgstr "Percorso icone"
+msgstr "Set di icone meteo"
 
 msgid "Weather service"
 msgstr "Servizio Meteo"
 
-#| msgid "Weather API key"
 msgid "Weather API key v2.5"
 msgstr "Chiave API v.2.5 Meteo"
 
@@ -335,22 +334,22 @@ msgid "n/a"
 msgstr "n/a"
 
 msgid "↓ N"
-msgstr ""
+msgstr "↓ N"
 
 msgid "↙ NE"
-msgstr ""
+msgstr "↙ NE"
 
 msgid "← E"
-msgstr ""
+msgstr "← E"
 
 msgid "↖ SE"
-msgstr ""
+msgstr "↖ SE"
 
 msgid "↑ S"
-msgstr ""
+msgstr "↑ S"
 
 msgid "→ W"
-msgstr ""
+msgstr "→ O"
 
 msgid "↘ NW"
-msgstr ""
+msgstr "↘ NO"

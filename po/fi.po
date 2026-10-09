@@ -2,7 +2,6 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the OAWeather package.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OAWeather 1.1\n"
@@ -42,7 +41,7 @@ msgstr "Näytä trendinuolet kuutiedoille"
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
 msgstr "Näytä kuun valaistuksen ja kuun etäisyyden trendinuolet nähdäksesi nykyisen datan trendin."
 
-msgid "Chose favorite"
+msgid "Choose favorite"
 msgstr "Valitse suosikki"
 
 #, python-format
@@ -66,13 +65,13 @@ msgstr "Pois käytöstä"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
 "Haluatko poistaa suosikin\n"
 "'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
+msgid "Do you really want to exit without saving your modified favorite list?"
 msgstr "Haluatko poistua tallentamatta muokattua suosikkilistaa?"
 
 msgid "East"
@@ -233,13 +232,13 @@ msgstr "Kaupungin nimi on liian lyhyt. Hakuun tarvitaan enemmän kuin 2 merkkiä
 
 #, python-format
 msgid "The favorite '%s' corresponds to the set weather city name and therefore cannot be deleted."
-msgstr "Suosikki '%s' vastaa asetettua sääkaupungin nimeä ja siksisitä ei voi poistaa."
+msgstr "Suosikki '%s' vastaa asetettua sääkaupungin nimeä ja siksi sitä ei voi poistaa."
 
 msgid "Today"
 msgstr "Tänään"
 
 msgid "Update"
-msgstr "Päivitetty"
+msgstr "Päivitä"
 
 msgid "Weather Plugin"
 msgstr "Sää-lisäosa"
@@ -287,23 +286,22 @@ msgid "n/a"
 msgstr "n/a"
 
 msgid "↓ N"
-msgstr "↓ N"
+msgstr "↓ P"
 
 msgid "↙ NE"
-msgstr "↙ NE"
+msgstr "↙ KO"
 
 msgid "← E"
-msgstr "← E"
+msgstr "← I"
 
 msgid "↖ SE"
-msgstr "↖ SE"
+msgstr "↖ KA"
 
 msgid "↑ S"
-msgstr "↑ S"
+msgstr "↑ E"
 
 msgid "→ W"
-msgstr "→ W"
+msgstr "→ L"
 
 msgid "↘ NW"
-msgstr "↘ NW"
-
+msgstr "↘ LO"

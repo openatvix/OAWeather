@@ -17,13 +17,13 @@ msgstr ""
 
 #, python-format
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minutit"
 
 msgid "Add"
-msgstr ""
+msgstr "Lisa"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Vahemälu andmed"
 
 msgid "Celsius"
 msgstr "Celsius"
@@ -32,250 +32,284 @@ msgid ""
 "Choose the icon set. You need to create an additional set here: /usr/share/"
 "enigma2/WeatherIconSets/NAME."
 msgstr ""
+"Valige ikoonide komplekt. Peate looma täiendava komplekti siia: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
 
 msgid ""
 "Choose whether the 'night switch' should be activated or not. Some icons are "
 "then displayed as night icons with moon."
 msgstr ""
+"Valige, kas 'öölüliti' tuleb aktiveerida või mitte. Mõned ikoonid "
+"kuvatakse siis kuuga ööikoonidena."
 
-msgid "Chose favorite"
-msgstr ""
+msgid "Choose favorite"
+msgstr "Vali lemmik"
 
 #, python-format
 msgid "City '%s' not found! Please try another wording."
-msgstr ""
+msgstr "Linna '%s' ei leitud! Palun proovige teist sõnastust."
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Praegune ilm"
 
-#, fuzzy
 msgid "Default"
-msgstr "Vaikeväärtused"
+msgstr "Vaikeväärtus"
 
 msgid "Defaults"
 msgstr "Vaikeväärtused"
 
 msgid "Delete"
-msgstr ""
+msgstr "Kustuta"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Keelatud"
 
 #, python-format
 msgid ""
-"Do you really want do delete favorite\n"
+"Do you really want to delete favorite\n"
 "'%s'?"
 msgstr ""
+"Kas soovite tõesti lemmiku kustutada\n"
+"'%s'?"
 
-msgid "Do you really want do exit without saving your modified favorite list?"
-msgstr ""
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "Kas soovite tõesti väljuda muudetud lemmikute loendit salvestamata?"
 
 msgid "East"
-msgstr ""
+msgstr "Ida"
 
 msgid "Edit"
-msgstr ""
+msgstr "Muuda"
 
-#, fuzzy
 msgid "Enable Debug"
-msgstr "Kasutusel"
+msgstr "Luba silumine"
 
 msgid "Enabled"
-msgstr "Kasutusel"
+msgstr "Lubatud"
 
 msgid ""
 "Enter the location for your weather forecasts. To include your location, "
 "expand your favorites list with 'Manage your favorites'."
 msgstr ""
+"Sisestage oma ilmaennustuste asukoht. Asukoha lisamiseks täiendage oma "
+"lemmikute loendit valikuga 'Halda lemmikuid'."
 
 msgid "Error getting City ID"
-msgstr ""
+msgstr "Viga linna ID hankimisel"
 
 msgid "Error in Weatherinfo"
-msgstr ""
+msgstr "Viga ilmainfos"
 
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
 msgid "Favorites have been successfully saved!"
-msgstr ""
+msgstr "Lemmikud on edukalt salvestatud!"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Tundub nagu"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Niiskus"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN ilm"
 
 msgid "Manage favorites"
-msgstr ""
+msgstr "Halda lemmikuid"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Tuule kiiruse meetermõõdustiku ühik"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Järgmine lemmik"
 
 msgid "View details"
-msgstr ""
+msgstr "Vaata üksikasju"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Päev +/-"
 
 msgid "Settings"
-msgstr ""
+msgstr "Seaded"
 
 msgid "Manage your favorites"
-msgstr ""
+msgstr "Hallake oma lemmikuid"
 
 msgid "No data available for this period."
-msgstr ""
+msgstr "Selle perioodi kohta pole andmeid saadaval."
 
 msgid "No data available."
-msgstr ""
+msgstr "Andmed pole saadaval."
 
 msgid "North"
-msgstr ""
+msgstr "Põhi"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Kirre"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Loe"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Wetter"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Sademed"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Eelmine lemmik"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Värskendamise intervall"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvesta"
 
 msgid "Search for your city"
-msgstr ""
+msgstr "Otsige oma linna"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Valige 'Jah', et lubada silumisväljundi lisamine logisse."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Valige 'Jah', et lubada ilma lisamine."
 
 msgid "Select desired location"
-msgstr ""
+msgstr "Valige soovitud asukoht"
 
 msgid ""
 "Select the metric unit for wind speed to be used for wind displays. This has "
 "no effect on the imperial unit 'mph'."
 msgstr ""
+"Valige tuule kiiruse meetermõõdustiku ühik, mida kasutatakse tuule "
+"kuvamiseks. See ei mõjuta imperiaalset ühikut 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Valige eelistatud ilmateenus ilmateabe edastamiseks."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Valige temperatuuriühik, mida kasutatakse temperatuuri kuvamiseks."
 
 msgid ""
 "Select this option to save that last obtained weather data locally. This is "
 "used to initialize the data immediately after restart while updated data is "
 "being fetched."
 msgstr ""
+"Valige see valik, et salvestada viimati hangitud ilmaandmed lokaalselt. Seda "
+"kasutatakse andmete lähtestamiseks kohe pärast taaskäivitamist, samal ajal "
+"kui värskendatud andmeid hangitakse."
 
 msgid "Select your location"
-msgstr ""
+msgstr "Valige oma asukoht"
 
 msgid "Set default values"
-msgstr ""
+msgstr "Määra vaikeväärtused"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Näita ilmaennustust"
 
 msgid "South"
-msgstr ""
+msgstr "Lõuna"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Kagu"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Edel"
 
 msgid ""
 "Specify how often Weather retrieves its data from the server. 'Once' means "
 "the data will loaded only once after a GUI or system start."
 msgstr ""
+"Määrake, kui sageli ilm oma andmeid serverist hangib. 'Üks kord' tähendab, "
+"et andmed laaditakse ainult üks kord pärast graafilise kasutajaliidese või "
+"süsteemi käivitamist."
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperatuuriühik"
 
 msgid ""
 "The city name is too short. More than 2 characters are needed for search."
 msgstr ""
+"Linna nimi on liiga lühike. Otsimiseks on vaja rohkem kui 2 tähemärki."
 
 #, python-format
 msgid ""
 "The favorite '%s' corresponds to the set weather city name and therefore "
 "cannot be deleted."
 msgstr ""
+"Lemmik '%s' vastab määratud ilma linna nimele ja seetõttu ei saa seda "
+"kustutada."
 
 msgid "Today"
-msgstr ""
+msgstr "Täna"
 
 msgid "Update"
-msgstr ""
+msgstr "Värskenda"
 
-#, fuzzy
 msgid "Weather Plugin"
-msgstr "Ilma andmed"
+msgstr "Ilma pistikprogramm"
 
-#, fuzzy
 msgid "Weather Plugin Detailview"
-msgstr "Ilma andmed"
+msgstr "Ilma pistikprogrammi üksikasjavaade"
 
-#, fuzzy
 msgid "Weather Plugin Overview"
-msgstr "Ilma andmed"
+msgstr "Ilma pistikprogrammi ülevaade"
 
 msgid "Weather Settings Actions"
-msgstr ""
+msgstr "Ilma seadete toimingud"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Ilma linna nimi"
 
 msgid "Weather cityname (at least 3 letters):"
-msgstr ""
+msgstr "Ilma linna nimi (vähemalt 3 tähte):"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Ilmaikooni öölüliti"
 
-#, fuzzy
 msgid "Weather icon set"
-msgstr "Ilma andmed"
+msgstr "Ilmaikoonide komplekt"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Ilmateenus"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Ilma API võti v2.5"
 
 msgid "Weather settings"
 msgstr "Ilma andmed"
 
 msgid "West"
-msgstr ""
+msgstr "Lääs"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/h"
 
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ P"
+
+msgid "↙ NE"
+msgstr "↙ KI"
+
+msgid "← E"
+msgstr "← I"
+
+msgid "↖ SE"
+msgstr "↖ KA"
+
+msgid "↑ S"
+msgstr "↑ LÕ"
+
+msgid "→ W"
+msgstr "→ LÄ"
+
+msgid "↘ NW"
+msgstr "↘ LO"

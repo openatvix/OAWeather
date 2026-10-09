@@ -1,4 +1,4 @@
-# Copyright (C) 2025 jbleyel, Mr.Servo, Stein17
+# Copyright (C) 2026 jbleyel, Mr.Servo, Stein17
 #
 # OAWeather is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -379,7 +379,7 @@ class OAWeatherOverview(Screen):
 		self["current"] = Label(_("Current Weather"))
 		self["today"] = StaticText(_("Today"))
 		self["key_red"] = StaticText(_("Exit"))
-		self["key_green"] = StaticText(_("Chose favorite"))
+		self["key_green"] = StaticText(_("Choose favorite"))
 		self["key_yellow"] = StaticText(_("Previous favorite"))
 		self["key_blue"] = StaticText(_("Next favorite"))
 		self["key_ok"] = StaticText(_("View details"))
@@ -527,7 +527,7 @@ class OAWeatherDetailview(Screen):
 		self["moonrisepix"] = Pixmap()
 		self["moonsetpix"] = Pixmap()
 		self["key_red"] = StaticText(_("Exit"))
-		self["key_green"] = StaticText(_("Chose favorite"))
+		self["key_green"] = StaticText(_("Choose favorite"))
 		self["key_yellow"] = StaticText(_("Previous favorite"))
 		self["key_blue"] = StaticText(_("Next favorite"))
 		self["key_channel"] = StaticText(_("Day +/-"))
@@ -1048,7 +1048,7 @@ class OAWeatherFavorites(Screen):
 		if self.newFavList and current is not None:
 			self.currFavorite = self.newFavList[current]
 			if weatherhelper.isDifferentLocation(self.currFavorite, config.plugins.OAWeather.weatherlocation.value):
-				msgtxt = _("Do you really want do delete favorite\n'%s'?") % self.currFavorite[0]
+				msgtxt = _("Do you really want to delete favorite\n'%s'?") % self.currFavorite[0]
 				self.session.openWithCallback(self.returnKeyRed, MessageBox, msgtxt, MessageBox.TYPE_YESNO, timeout=10, default=False)
 			else:
 				msgtxt = _("The favorite '%s' corresponds to the set weather city name and therefore cannot be deleted.") % self.currFavorite[0]
@@ -1087,7 +1087,7 @@ class OAWeatherFavorites(Screen):
 	def checkChanges(self, returnFavorite):
 		if self.newFavList != weatherhelper.favoriteList:
 			self.returnFavorite = returnFavorite
-			msgtxt = _("Do you really want do exit without saving your modified favorite list?")
+			msgtxt = _("Do you really want to exit without saving your modified favorite list?")
 			self.session.openWithCallback(self.returnCheckChanges, MessageBox, msgtxt, MessageBox.TYPE_YESNO, timeout=10, default=False)
 		else:
 			self.close(returnFavorite)
