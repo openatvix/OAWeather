@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OAWeather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-30 23:00+0100\n"
+"PO-Revision-Date: 2025-04-03 12:45+0200\n"
+"Last-Translator: Mr.Servo <mrservo via GitHub.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/openatv/"
+"metrixhd/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 3.5\n"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d хвилин"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Cache data"
+msgstr "Кеш даних"
+
+msgid "Celsius"
+msgstr "Цельсій"
+
+msgid ""
+"Choose the icon set. You need to create an additional set here: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+msgstr ""
+"Виберіть набір іконок. Вам потрібно створити додатковий набір тут: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+"Виберіть, чи слід активувати «нічний перемикач». Деякі іконки тоді "
+"відображаються як нічні іконки з місяцем."
+
+msgid "Choose favorite"
+msgstr "Вибрати улюблене"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "Місто '%s' не знайдено! Спробуйте інше формулювання."
+
+msgid "Current Weather"
+msgstr "Поточна погода"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "Defaults"
+msgstr "За замовчуванням"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#, python-format
+msgid ""
+"Do you really want to delete favorite\n"
+"'%s'?"
+msgstr ""
+"Ви дійсно хочете видалити улюблене\n"
+"'%s'?"
+
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "Ви дійсно хочете вийти без збереження зміненого списку улюблених?"
+
+msgid "East"
+msgstr "Схід"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Enable Debug"
+msgstr "Увімкнути налагодження"
+
+msgid "Enabled"
+msgstr "Ввімкнуто"
+
+msgid ""
+"Enter the location for your weather forecasts. To include your location, "
+"expand your favorites list with 'Manage your favorites'."
+msgstr ""
+"Введіть місцезнаходження для ваших прогнозів погоди. Щоб включити своє "
+"місцезнаходження, розширте список улюблених за допомогою «Керування улюбленими»."
+
+msgid "Error getting City ID"
+msgstr "Помилка отримання ID міста"
+
+msgid "Error in Weatherinfo"
+msgstr "Помилка в Weatherinfo"
+
+msgid "Fahrenheit"
+msgstr "Фаренгейт"
+
+msgid "Favorites have been successfully saved!"
+msgstr "Улюблені успішно збережено!"
+
+msgid "Feels like"
+msgstr "Відчувається як"
+
+msgid "Humidity"
+msgstr "Вологість"
+
+msgid "MSN weather"
+msgstr "Погода MSN"
+
+msgid "Manage favorites"
+msgstr "Керування улюбленими"
+
+msgid "Metric unit for wind speed"
+msgstr "Метрична одиниця для швидкості вітру"
+
+msgid "Next favorite"
+msgstr "Наступне улюблене"
+
+msgid "View details"
+msgstr "Переглянути подробиці"
+
+msgid "Day +/-"
+msgstr "День +/-"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Manage your favorites"
+msgstr "Керуйте своїми улюбленими"
+
+msgid "No data available for this period."
+msgstr "Немає даних за цей період."
+
+msgid "No data available."
+msgstr "Немає доступних даних."
+
+msgid "North"
+msgstr "Північний"
+
+msgid "Northeast"
+msgstr "Північно-східний"
+
+msgid "Northwest"
+msgstr "Північно-західний"
+
+msgid "Open-Meteo Wetter"
+msgstr "Погода Open-Meteo"
+
+msgid "Precipitation"
+msgstr "Опади"
+
+msgid "Previous favorite"
+msgstr "Попереднє улюблене"
+
+msgid "Refresh interval"
+msgstr "Інтервал оновлення"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Search for your city"
+msgstr "Знайти своє місто"
+
+msgid "Select 'Yes' to enable add debug output to log."
+msgstr "Виберіть «Так», щоб увімкнути додавання налагоджувального виводу до журналу."
+
+msgid "Select 'Yes' to enable the addition of Weather."
+msgstr "Виберіть «Так», щоб увімкнути додавання погоди."
+
+msgid "Select desired location"
+msgstr "Виберіть бажане місцезнаходження"
+
+msgid ""
+"Select the metric unit for wind speed to be used for wind displays. This has "
+"no effect on the imperial unit 'mph'."
+msgstr ""
+"Виберіть метричну одиницю для швидкості вітру, яка використовуватиметься для "
+"відображення вітру. Це не впливає на імперську одиницю 'mph'."
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr "Виберіть бажаний погодний сервіс для надання інформації про погоду."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr "Виберіть одиницю температури, яка використовуватиметься для відображення температури."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"Виберіть цю опцію, щоб зберегти останні отримані дані про погоду локально. "
+"Це використовується для ініціалізації даних одразу після перезапуску, поки "
+"завантажуються оновлені дані."
+
+msgid "Select your location"
+msgstr "Виберіть своє місцезнаходження"
+
+msgid "Set default values"
+msgstr "Встановити значення за замовчуванням"
+
+msgid "Show Weather Forecast"
+msgstr "Показати прогноз погоди"
+
+msgid "South"
+msgstr "Південний"
+
+msgid "Southeast"
+msgstr "Південно-східний"
+
+msgid "Southwest"
+msgstr "Південно-західний"
+
+msgid ""
+"Specify how often Weather retrieves its data from the server. 'Once' means "
+"the data will loaded only once after a GUI or system start."
+msgstr ""
+"Вкажіть, як часто погода отримує свої дані з сервера. «Один раз» означає, "
+"що дані завантажуватимуться лише один раз після запуску графічного "
+"інтерфейсу або системи."
+
+msgid "Temperature unit"
+msgstr "Одиниця температури"
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr ""
+"Назва міста занадто коротка. Для пошуку потрібно більше 2 символів."
+
+#, python-format
+msgid ""
+"The favorite '%s' corresponds to the set weather city name and therefore "
+"cannot be deleted."
+msgstr ""
+"Улюблене '%s' відповідає встановленій назві міста погоди, тому його "
+"не можна видалити."
+
+msgid "Today"
+msgstr "Сьогодні"
+
+msgid "Update"
+msgstr "Оновити"
+
+msgid "Weather Plugin"
+msgstr "Плагін погоди"
+
+msgid "Weather Plugin Detailview"
+msgstr "Детальний перегляд плагіна погоди"
+
+msgid "Weather Plugin Overview"
+msgstr "Огляд плагіна погоди"
+
+msgid "Weather Settings Actions"
+msgstr "Дії з налаштувань погоди"
+
+msgid "Weather city name"
+msgstr "Назва міста погоди"
+
+msgid "Weather cityname (at least 3 letters):"
+msgstr "Назва міста погоди (щонайменше 3 літери):"
+
+msgid "Weather icon night switch"
+msgstr "Нічний перемикач іконок погоди"
+
+msgid "Weather icon set"
+msgstr "Набір іконок погоди"
+
+msgid "Weather service"
+msgstr "Сервіс погоди"
+
+msgid "Weather API key v2.5"
+msgstr "Ключ API погоди v2.5"
+
+msgid "Weather settings"
+msgstr "Налаштування погоди"
+
+msgid "West"
+msgstr "Західний"
+
+msgid "km/h"
+msgstr "км/год"
+
+msgid "m/s"
+msgstr "м/с"
+
+msgid "n/a"
+msgstr "Н/Д"
+
+msgid "↓ N"
+msgstr "↓ Пн"
+
+msgid "↙ NE"
+msgstr "↙ ПнСх"
+
+msgid "← E"
+msgstr "← Сх"
+
+msgid "↖ SE"
+msgstr "↖ ПдСх"
+
+msgid "↑ S"
+msgstr "↑ Пд"
+
+msgid "→ W"
+msgstr "→ Зх"
+
+msgid "↘ NW"
+msgstr "↘ ПнЗх"

@@ -1,0 +1,318 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-30 23:00+0100\n"
+"PO-Revision-Date: 2025-04-03 12:42+0200\n"
+"Last-Translator: Mr.Servo <mrservo via GitHub.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/openatv/metrixhd/"
+"ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Poedit 3.5\n"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d دقيقة"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Cache data"
+msgstr "بيانات التخزين المؤقت"
+
+msgid "Celsius"
+msgstr "درجة مئوية"
+
+msgid ""
+"Choose the icon set. You need to create an additional set here: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+msgstr ""
+"اختر مجموعة الأيقونات. تحتاج إلى إنشاء مجموعة إضافية هنا: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+"اختر ما إذا كان يجب تفعيل 'مفتاح الليل' أم لا. يتم عرض بعض الأيقونات "
+"بعد ذلك كأيقونات ليلية مع القمر."
+
+msgid "Choose favorite"
+msgstr "اختر المفضلة"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "المدينة '%s' غير موجودة! يرجى تجربة صيغة أخرى."
+
+msgid "Current Weather"
+msgstr "الطقس الحالي"
+
+msgid "Default"
+msgstr "الافتراضية"
+
+msgid "Defaults"
+msgstr "الافتراضية"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Disabled"
+msgstr "معطّل"
+
+#, python-format
+msgid ""
+"Do you really want to delete favorite\n"
+"'%s'?"
+msgstr ""
+"هل تريد حقًا حذف المفضلة\n"
+"'%s'؟"
+
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "هل تريد حقًا الخروج دون حفظ قائمة المفضلة المعدلة؟"
+
+msgid "East"
+msgstr "شرق"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "Enable Debug"
+msgstr "تمكين تصحيح الأخطاء"
+
+msgid "Enabled"
+msgstr "تمكين"
+
+msgid ""
+"Enter the location for your weather forecasts. To include your location, "
+"expand your favorites list with 'Manage your favorites'."
+msgstr ""
+"أدخل الموقع لتوقعات الطقس الخاصة بك. لتضمين موقعك، "
+"قم بتوسيع قائمة المفضلة لديك باستخدام 'إدارة المفضلة'."
+
+msgid "Error getting City ID"
+msgstr "خطأ في الحصول على معرف المدينة"
+
+msgid "Error in Weatherinfo"
+msgstr "خطأ في معلومات الطقس"
+
+msgid "Fahrenheit"
+msgstr "فهرنهايت"
+
+msgid "Favorites have been successfully saved!"
+msgstr "تم حفظ المفضلة بنجاح!"
+
+msgid "Feels like"
+msgstr "يشعر كأنه"
+
+msgid "Humidity"
+msgstr "الرطوبة"
+
+msgid "MSN weather"
+msgstr "طقس MSN"
+
+msgid "Manage favorites"
+msgstr "إدارة المفضلة"
+
+msgid "Metric unit for wind speed"
+msgstr "الوحدة المترية لسرعة الرياح"
+
+msgid "Next favorite"
+msgstr "المفضلة التالية"
+
+msgid "View details"
+msgstr "عرض التفاصيل"
+
+msgid "Day +/-"
+msgstr "يوم +/-"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Manage your favorites"
+msgstr "إدارة المفضلة"
+
+msgid "No data available for this period."
+msgstr "لا توجد بيانات متاحة لهذه الفترة."
+
+msgid "No data available."
+msgstr "لا توجد بيانات متاحة."
+
+msgid "North"
+msgstr "شمال"
+
+msgid "Northeast"
+msgstr "شمال شرق"
+
+msgid "Northwest"
+msgstr "شمال غرب"
+
+msgid "Open-Meteo Wetter"
+msgstr "طقس Open-Meteo"
+
+msgid "Precipitation"
+msgstr "هطول الأمطار"
+
+msgid "Previous favorite"
+msgstr "المفضلة السابقة"
+
+msgid "Refresh interval"
+msgstr "فترة التحديث"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Search for your city"
+msgstr "ابحث عن مدينتك"
+
+msgid "Select 'Yes' to enable add debug output to log."
+msgstr "اختر 'نعم' لتمكين إضافة مخرجات التصحيح إلى السجل."
+
+msgid "Select 'Yes' to enable the addition of Weather."
+msgstr "اختر 'نعم' لتمكين إضافة الطقس."
+
+msgid "Select desired location"
+msgstr "حدد الموقع المطلوب"
+
+msgid ""
+"Select the metric unit for wind speed to be used for wind displays. This has "
+"no effect on the imperial unit 'mph'."
+msgstr ""
+"اختر الوحدة المترية لسرعة الرياح لاستخدامها في عرض الرياح. هذا ليس له "
+"تأثير على الوحدة الإمبراطورية 'mph'."
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr "اختر خدمة الطقس المفضلة لتوفير معلومات الطقس."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr "اختر وحدة درجة الحرارة لاستخدامها في عرض درجات الحرارة."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"اختر هذا الخيار لحفظ بيانات الطقس التي تم الحصول عليها آخر مرة محليًا. يُستخدم هذا "
+"لتهيئة البيانات فورًا بعد إعادة التشغيل بينما يتم جلب البيانات المحدثة."
+
+msgid "Select your location"
+msgstr "حدد موقعك"
+
+msgid "Set default values"
+msgstr "تعيين القيم الافتراضية"
+
+msgid "Show Weather Forecast"
+msgstr "عرض توقعات الطقس"
+
+msgid "South"
+msgstr "جنوب"
+
+msgid "Southeast"
+msgstr "جنوب شرق"
+
+msgid "Southwest"
+msgstr "جنوب غرب"
+
+msgid ""
+"Specify how often Weather retrieves its data from the server. 'Once' means "
+"the data will loaded only once after a GUI or system start."
+msgstr ""
+"حدد عدد المرات التي يسترد فيها الطقس بياناته من الخادم. 'مرة واحدة' تعني "
+"أنه سيتم تحميل البيانات مرة واحدة فقط بعد بدء واجهة المستخدم الرسومية أو النظام."
+
+msgid "Temperature unit"
+msgstr "وحدة درجة الحرارة"
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr ""
+"اسم المدينة قصير جدًا. مطلوب أكثر من حرفين للبحث."
+
+#, python-format
+msgid ""
+"The favorite '%s' corresponds to the set weather city name and therefore "
+"cannot be deleted."
+msgstr ""
+"المفضلة '%s' تتوافق مع اسم مدينة الطقس المحدد وبالتالي "
+"لا يمكن حذفها."
+
+msgid "Today"
+msgstr "اليوم"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Weather Plugin"
+msgstr "إضافة الطقس"
+
+msgid "Weather Plugin Detailview"
+msgstr "عرض تفاصيل إضافة الطقس"
+
+msgid "Weather Plugin Overview"
+msgstr "نظرة عامة على إضافة الطقس"
+
+msgid "Weather Settings Actions"
+msgstr "إجراءات إعدادات الطقس"
+
+msgid "Weather city name"
+msgstr "اسم مدينة الطقس"
+
+msgid "Weather cityname (at least 3 letters):"
+msgstr "اسم مدينة الطقس (3 أحرف على الأقل):"
+
+msgid "Weather icon night switch"
+msgstr "مفتاح أيقونة الطقس الليلي"
+
+msgid "Weather icon set"
+msgstr "مجموعة أيقونات الطقس"
+
+msgid "Weather service"
+msgstr "خدمة الطقس"
+
+msgid "Weather API key v2.5"
+msgstr "مفتاح واجهة برمجة تطبيقات الطقس v2.5"
+
+msgid "Weather settings"
+msgstr "إعدادات الطقس"
+
+msgid "West"
+msgstr "غرب"
+
+msgid "km/h"
+msgstr "كم/س"
+
+msgid "m/s"
+msgstr "م/ث"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ ش"
+
+msgid "↙ NE"
+msgstr "↙ شق"
+
+msgid "← E"
+msgstr "← ق"
+
+msgid "↖ SE"
+msgstr "↖ جق"
+
+msgid "↑ S"
+msgstr "↑ ج"
+
+msgid "→ W"
+msgstr "→ غ"
+
+msgid "↘ NW"
+msgstr "↘ شغ"

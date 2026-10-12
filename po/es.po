@@ -1,0 +1,326 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-30 23:00+0100\n"
+"PO-Revision-Date: 2025-04-03 12:43+0200\n"
+"Last-Translator: Mr.Servo <mrservo via GitHub.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/openatv/metrixhd/"
+"es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.5\n"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d Minutos"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Cache data"
+msgstr "Datos en cache"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid ""
+"Choose the icon set. You need to create an additional set here: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+msgstr ""
+"Elija el conjunto de iconos. Debe crear un conjunto adicional aquí: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+"Elija si se debe activar o no el 'interruptor nocturno'. Algunos iconos se "
+"muestran entonces como iconos nocturnos con luna."
+
+msgid "Choose favorite"
+msgstr "Elegir favorito"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "¡Ciudad '%s' no encontrada! Por favor, pruebe con otra palabra."
+
+msgid "Current Weather"
+msgstr "Tiempo actual"
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "Defaults"
+msgstr "Valores predefinidos"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#, python-format
+msgid ""
+"Do you really want to delete favorite\n"
+"'%s'?"
+msgstr ""
+"¿Realmente desea eliminar el favorito\n"
+"'%s'?"
+
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "¿Realmente desea salir sin guardar su lista de favoritos modificada?"
+
+msgid "East"
+msgstr "Este"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Enable Debug"
+msgstr "Habilitar depuración"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid ""
+"Enter the location for your weather forecasts. To include your location, "
+"expand your favorites list with 'Manage your favorites'."
+msgstr ""
+"Introduzca la ubicación para sus pronósticos meteorológicos. Para incluir su "
+"ubicación, amplíe su lista de favoritos con 'Administrar sus favoritos'."
+
+msgid "Error getting City ID"
+msgstr "Error al obtener el ID de la ciudad"
+
+msgid "Error in Weatherinfo"
+msgstr "Error en Weatherinfo"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Favorites have been successfully saved!"
+msgstr "¡Los favoritos se han guardado correctamente!"
+
+msgid "Feels like"
+msgstr "Sensación térmica"
+
+msgid "Humidity"
+msgstr "Humedad"
+
+msgid "MSN weather"
+msgstr "El tiempo en MSN"
+
+msgid "Manage favorites"
+msgstr "Administrar favoritos"
+
+msgid "Metric unit for wind speed"
+msgstr "Unidad métrica para la velocidad del viento"
+
+msgid "Next favorite"
+msgstr "Siguiente favorito"
+
+msgid "View details"
+msgstr "Ver detalles"
+
+msgid "Day +/-"
+msgstr "Día +/-"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Manage your favorites"
+msgstr "Administrar sus favoritos"
+
+msgid "No data available for this period."
+msgstr "No hay datos disponibles para este período."
+
+msgid "No data available."
+msgstr "No hay datos disponibles."
+
+msgid "North"
+msgstr "Norte"
+
+msgid "Northeast"
+msgstr "Noreste"
+
+msgid "Northwest"
+msgstr "Noroeste"
+
+msgid "Open-Meteo Wetter"
+msgstr "Open-Meteo Wetter"
+
+msgid "Precipitation"
+msgstr "Precipitación"
+
+msgid "Previous favorite"
+msgstr "Favorito anterior"
+
+msgid "Refresh interval"
+msgstr "Intervalo de actualización"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Search for your city"
+msgstr "Busque su ciudad"
+
+msgid "Select 'Yes' to enable add debug output to log."
+msgstr "Seleccione 'Sí' para habilitar la salida de depuración en el registro."
+
+msgid "Select 'Yes' to enable the addition of Weather."
+msgstr "Seleccione 'Sí' para habilitar la adición de Weather."
+
+msgid "Select desired location"
+msgstr "Seleccione la ubicación deseada"
+
+msgid ""
+"Select the metric unit for wind speed to be used for wind displays. This has "
+"no effect on the imperial unit 'mph'."
+msgstr ""
+"Seleccione la unidad métrica para la velocidad del viento que se utilizará "
+"en las visualizaciones del viento. Esto no tiene efecto en la unidad "
+"imperial 'mph'."
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr ""
+"Seleccione el servicio meteorológico preferido para suministrar la "
+"información meteorológica."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr ""
+"Seleccione la unidad de temperatura que se utilizará para la visualización "
+"de la temperatura."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"Seleccione esta opción para guardar localmente los últimos datos "
+"meteorológicos obtenidos. Esto se utiliza para inicializar los datos "
+"inmediatamente después de reiniciar mientras se obtienen los datos "
+"actualizados."
+
+msgid "Select your location"
+msgstr "Seleccione su ubicación"
+
+msgid "Set default values"
+msgstr "Establecer los valores por defecto"
+
+msgid "Show Weather Forecast"
+msgstr "Mostrar pronóstico del tiempo"
+
+msgid "South"
+msgstr "Sur"
+
+msgid "Southeast"
+msgstr "Sureste"
+
+msgid "Southwest"
+msgstr "Suroeste"
+
+msgid ""
+"Specify how often Weather retrieves its data from the server. 'Once' means "
+"the data will loaded only once after a GUI or system start."
+msgstr ""
+"Especifique la frecuencia con la que Weather recupera sus datos del "
+"servidor. 'Una vez' significa que los datos se cargarán sólo una vez después "
+"de un inicio de la GUI o del sistema."
+
+msgid "Temperature unit"
+msgstr "Unidad de temperatura"
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr ""
+"El nombre de la ciudad es demasiado corto. Se necesitan más de 2 caracteres "
+"para la búsqueda."
+
+#, python-format
+msgid ""
+"The favorite '%s' corresponds to the set weather city name and therefore "
+"cannot be deleted."
+msgstr ""
+"El favorito '%s' corresponde al nombre de ciudad meteorológica establecido y "
+"por lo tanto no se puede eliminar."
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Weather Plugin"
+msgstr "Complemento del tiempo"
+
+msgid "Weather Plugin Detailview"
+msgstr "Vista detallada del complemento del tiempo"
+
+msgid "Weather Plugin Overview"
+msgstr "Vista general del complemento del tiempo"
+
+msgid "Weather Settings Actions"
+msgstr "Acciones de la configuración meteorológica"
+
+msgid "Weather city name"
+msgstr "Nombre de la ciudad meteorológica"
+
+msgid "Weather cityname (at least 3 letters):"
+msgstr "Nombre de la ciudad meteorológica (al menos 3 letras):"
+
+msgid "Weather icon night switch"
+msgstr "Interruptor nocturno del icono meteorológico"
+
+msgid "Weather icon set"
+msgstr "Conjunto de iconos meteorológicos"
+
+msgid "Weather service"
+msgstr "Servicio meteorológico"
+
+msgid "Weather API key v2.5"
+msgstr "Clave API meteorológica v2.5"
+
+msgid "Weather settings"
+msgstr "Ajustes meteorológicos"
+
+msgid "West"
+msgstr "Oeste"
+
+msgid "km/h"
+msgstr "km/h"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ N"
+
+msgid "↙ NE"
+msgstr "↙ NE"
+
+msgid "← E"
+msgstr "← E"
+
+msgid "↖ SE"
+msgstr "↖ SE"
+
+msgid "↑ S"
+msgstr "↑ S"
+
+msgid "→ W"
+msgstr "→ O"
+
+msgid "↘ NW"
+msgstr "↘ NO"

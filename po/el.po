@@ -1,0 +1,359 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-27 14:27+0100\n"
+"PO-Revision-Date: 2025-10-12 23:10+0300\n"
+"Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/openatv/metrixhd/"
+"el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.7\n"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d λεπτά"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Cache data"
+msgstr "Δεδομένα προσωρινής αποθήκευσης"
+
+msgid "Celsius"
+msgstr "Κελσίου"
+
+msgid ""
+"Choose the icon set. You need to create an additional set here: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+msgstr ""
+"Επιλέξτε το πακέτο εικονιδίων. Πρέπει να δημιουργήσετε ένα πρόσθετο πακέτο "
+"εδώ: /usr/share/enigma2/WeatherIconSets/NAME."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+"Επιλέξτε αν θα πρέπει να ενεργοποιηθεί ή όχι ο \"νυχτερινός διακόπτης\". "
+"Ορισμένα εικονίδια εμφανίζονται τότε ως εικονίδια νύχτας με φεγγάρι."
+
+msgid "Show trend arrows for moon data"
+msgstr "Εμφάνιση βελών τάσης για δεδομένα σελήνης"
+
+msgid ""
+"Show trend arrows for moon illumination and moon distance to see the current "
+"trend of the data."
+msgstr ""
+"Εμφάνιση βελών τάσης για τη λαμπρότητα και την απόσταση της σελήνης για "
+"προβολή της τρέχουσας τάσης δεδομένων."
+
+msgid "Choose favorite"
+msgstr "Επιλογή αγαπημένου"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "Η πόλη %s δεν βρέθηκε! Παρακαλώ δοκιμάστε διαφορετική διατύπωση."
+
+msgid "Current Weather"
+msgstr "Τρέχων καιρός"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Defaults"
+msgstr "Προεπιλογές"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Disabled"
+msgstr "Ανενεργό"
+
+#, python-format
+msgid ""
+"Do you really want to delete favorite\n"
+"'%s'?"
+msgstr ""
+"Θέλετε πραγματικά να διαγράψετε το αγαπημένο\n"
+"'%s';"
+
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr ""
+"Θέλετε πραγματικά να γίνει έξοδος χωρίς να αποθηκευτεί η τροποποιημένη λίστα "
+"αγαπημένων;"
+
+msgid "East"
+msgstr "Ανατολικά"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Enable Debug"
+msgstr "Ενεργοποίηση αποσφαλμάτωσης"
+
+msgid "Enabled"
+msgstr "Ενεργό"
+
+msgid ""
+"Enter the location for your weather forecasts. To include your location, "
+"expand your favorites list with 'Manage your favorites'."
+msgstr ""
+"Εισαγωγή τοποθεσίας καιρού αγαπημένων. Για να συμπεριλάβετε την τοποθεσία "
+"σας, επεκτείνετε τη λίστα αγαπημένων μέσω της διαχείρισης."
+
+msgid "Error getting City ID"
+msgstr "Σφάλμα εύρεσης αναγνωριστικού πόλης"
+
+msgid "Error in Weatherinfo"
+msgstr "Σφάλμα πληροφοριών καιρού"
+
+msgid "More Details / Smaller font"
+msgstr "Περισσότερες / Μικρότερη γραμματοσειρά"
+
+msgid "Less details / Larger font"
+msgstr "Λιγότερες / Μεγαλύτερη γραμματοσειρά"
+
+msgid "Fahrenheit"
+msgstr "Φαρενάιτ"
+
+msgid "Favorites have been successfully saved!"
+msgstr "Τα αγαπημένα αποθηκεύτηκαν με επιτυχία!"
+
+msgid "Feels like"
+msgstr "Αίσθηση"
+
+msgid "Humidity"
+msgstr "Υγρασία"
+
+msgid "MSN weather"
+msgstr "Καιρός MSN"
+
+msgid "Manage favorites"
+msgstr "Διαχείριση αγαπημένων"
+
+msgid "Metric unit for wind speed"
+msgstr "Μετρική μονάδα για την ταχύτητα ανέμου"
+
+msgid "Next favorite"
+msgstr "Επόμενο αγαπημένο"
+
+msgid "View details"
+msgstr "Εμφάνιση λεπτομερειών"
+
+msgid "Day +/-"
+msgstr "Ημέρα +/-"
+
+msgid "Details +/-"
+msgstr "Πληροφορίες +/-"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Glass"
+msgstr "Γυαλί"
+
+msgid "Manage your favorites"
+msgstr "Διαχείριση αγαπημένων"
+
+msgid "No data available for this period."
+msgstr "Μη διαθέσιμα δεδομένα για αυτή την περίοδο."
+
+msgid "No data available."
+msgstr "Μη διαθέσιμα δεδομένα."
+
+msgid "North"
+msgstr "Βόρεια"
+
+msgid "Northeast"
+msgstr "Βορειοανατολικά"
+
+msgid "Northwest"
+msgstr "Βορειοδυτικά"
+
+msgid "Open-Meteo Wetter"
+msgstr "Καιρός Open-Meteo"
+
+msgid "Precipitation"
+msgstr "Υετός"
+
+msgid "Previous favorite"
+msgstr "Προηγούμενο αγαπημένο"
+
+msgid "Refresh interval"
+msgstr "Διάστημα ανανέωσης"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Search for your city"
+msgstr "Αναζήτηση για την πόλη σας"
+
+msgid "Select 'Yes' to enable add debug output to log."
+msgstr ""
+"Επιλέξτε «ναι» για να ενεργοποιηθεί η προσθήκη της αποσφαλμάτωσης στο αρχείο "
+"καταγραφής."
+
+msgid "Select 'Yes' to enable the addition of Weather."
+msgstr "Επιλέξτε «ναι» για να ενεργοποιηθεί η προσθήκη του πρόσθετου."
+
+msgid "Select desired location"
+msgstr "Επιλογή επιθυμητής τοποθεσίας"
+
+msgid ""
+"Select the metric unit for wind speed to be used for wind displays. This has "
+"no effect on the imperial unit 'mph'."
+msgstr ""
+"Επιλογή της μετρικής μονάδας για την ταχύτητα του ανέμου προς χρήση σε "
+"απεικόνιση. Αυτό δεν επηρεάζει την αυτοκρατορική μονάδα 'mph'."
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr "Επιλογή της προτιμώμενης υπηρεσίας παροχής των πληροφοριών καιρού."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr "Επιλογή μονάδας θερμοκρασίας για χρήση στις ενδείξεις θερμοκρασίας."
+
+msgid "Detail level in detail view"
+msgstr "Επίπεδο λεπτομερειών"
+
+msgid ""
+"Select the detail level in the detail view. You have the choice between a "
+"comprehensive presentation in a smaller font and a reduced presentation with "
+"a larger font."
+msgstr ""
+"Επιλέξτε το επίπεδο λεπτομερειών στην προβολή λεπτομερειών. Έχετε την "
+"επιλογή μεταξύ μίας αναλυτικότερης παρουσίασης με μικρότερη γραμματοσειρά "
+"και μίας συντομότερης με μεγαλύτερη γραμματοσειρά."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"Ενεργοποιήστε αυτήν την επιλογή για να αποθηκευτούν τα τελευταία δεδομένα "
+"καιρού που λήφθηκαν τοπικά. Αυτό χρησιμοποιείται για την προετοιμασία των "
+"δεδομένων αμέσως μετά την επανεκκίνηση, ενώ γίνεται λήψη ενημερωμένων "
+"δεδομένων."
+
+msgid "Select your location"
+msgstr "Επιλογή της τοποθεσίας σας"
+
+msgid "Set default values"
+msgstr "Ορισμός προεπιλεγμένων τιμών"
+
+msgid "Show Weather Forecast"
+msgstr "Εμφάνιση πρόγνωσης καιρού"
+
+msgid "South"
+msgstr "Νότια"
+
+msgid "Southeast"
+msgstr "Νοτιοανατολικά"
+
+msgid "Southwest"
+msgstr "Νοτιοδυτικά"
+
+msgid ""
+"Specify how often Weather retrieves its data from the server. 'Once' means "
+"the data will loaded only once after a GUI or system start."
+msgstr ""
+"Καθορίστε πόσο συχνά το πρόσθετο θα ανακτά τα δεδομένα του από το "
+"διακομιστή. «Μία φορά» σημαίνει ότι τα δεδομένα θα φορτωθούν μόνο μία φορά "
+"μετά την εκκίνηση της επιφάνειας χρήστη ή του συστήματος."
+
+msgid "Temperature unit"
+msgstr "Μονάδα θερμοκρασίας"
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr ""
+"Το όνομα της πόλης είναι πολύ μικρό. Απαιτούνται περισσότεροι από 2 "
+"χαρακτήρες για την αναζήτηση."
+
+#, python-format
+msgid ""
+"The favorite '%s' corresponds to the set weather city name and therefore "
+"cannot be deleted."
+msgstr ""
+"Το αγαπημένο '%s' αντιστοιχεί στην ήδη ορισμένη πόλη καιρού και έτσι δεν "
+"γίνεται να διαγραφεί."
+
+msgid "Today"
+msgstr "Σήμερα"
+
+msgid "Update"
+msgstr "Ενημέρωση"
+
+msgid "Weather Plugin"
+msgstr "Πρόσθετο καιρού"
+
+msgid "Weather Plugin Detailview"
+msgstr "Πρόσθετο καιρού λεπτομέρειες"
+
+msgid "Weather Plugin Overview"
+msgstr "Πρόσθετο καιρού επισκόπηση"
+
+msgid "Weather Settings Actions"
+msgstr "Ενέργειες ρυθμίσεων καιρού"
+
+msgid "Weather city name"
+msgstr "Όνομα πόλης καιρού"
+
+msgid "Weather cityname (at least 3 letters):"
+msgstr "Όνομα πόλης καιρού (τουλάχιστον 3 γράμματα):"
+
+msgid "Weather icon night switch"
+msgstr "Διακόπτης νύχτας εικονιδίου καιρού"
+
+msgid "Weather icon set"
+msgstr "Πακέτο εικονιδίων"
+
+msgid "Weather service"
+msgstr "Υπηρεσία καιρού"
+
+msgid "Weather API key v2.5"
+msgstr "Κλειδί API για τον καιρό v2.5"
+
+msgid "Weather settings"
+msgstr "Ρυθμίσεις καιρού"
+
+msgid "West"
+msgstr "Δυτικά"
+
+msgid "km/h"
+msgstr "χλμ/ω"
+
+msgid "m/s"
+msgstr "μ/δ"
+
+msgid "n/a"
+msgstr "μ/δ"
+
+msgid "↓ N"
+msgstr "↓ Β"
+
+msgid "↙ NE"
+msgstr "↙ ΒΑ"
+
+msgid "← E"
+msgstr "← Α"
+
+msgid "↖ SE"
+msgstr "↖ ΝΑ"
+
+msgid "↑ S"
+msgstr "↑ Ν"
+
+msgid "→ W"
+msgstr "→ Δ"
+
+msgid "↘ NW"
+msgstr "↘ ΒΔ"

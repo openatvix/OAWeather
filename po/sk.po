@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OAWeather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-30 23:00+0100\n"
+"PO-Revision-Date: 2025-04-03 12:45+0200\n"
+"Last-Translator: Mr.Servo <mrservo via GitHub.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/openatv/metrixhd/"
+"sk/>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d minút"
+
+msgid "Add"
+msgstr "Pridať"
+
+msgid "Cache data"
+msgstr "Údaje vyrovnávacej pamäte"
+
+msgid "Celsius"
+msgstr "Stupne Celzia"
+
+msgid ""
+"Choose the icon set. You need to create an additional set here: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+msgstr ""
+"Vyberte sadu ikon. Tu musíte vytvoriť dodatočnú sadu: /usr/share/"
+"enigma2/WeatherIconSets/NAME."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+"Vyberte, či sa má aktivovať 'nočný prepínač'. Niektoré ikony sa potom "
+"zobrazujú ako nočné ikony s mesiacom."
+
+msgid "Choose favorite"
+msgstr "Vybrať obľúbené"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "Mesto '%s' sa nenašlo! Skúste prosím inú formuláciu."
+
+msgid "Current Weather"
+msgstr "Aktuálne počasie"
+
+msgid "Default"
+msgstr "Predvolené"
+
+msgid "Defaults"
+msgstr "Východzie"
+
+msgid "Delete"
+msgstr "Odstrániť"
+
+msgid "Disabled"
+msgstr "Zakázané"
+
+#, python-format
+msgid ""
+"Do you really want to delete favorite\n"
+"'%s'?"
+msgstr ""
+"Naozaj chcete odstrániť obľúbené\n"
+"'%s'?"
+
+msgid "Do you really want to exit without saving your modified favorite list?"
+msgstr "Naozaj chcete ukončiť bez uloženia upraveného zoznamu obľúbených?"
+
+msgid "East"
+msgstr "Východ"
+
+msgid "Edit"
+msgstr "Upraviť"
+
+msgid "Enable Debug"
+msgstr "Povoliť ladenie"
+
+msgid "Enabled"
+msgstr "Povolené"
+
+msgid ""
+"Enter the location for your weather forecasts. To include your location, "
+"expand your favorites list with 'Manage your favorites'."
+msgstr ""
+"Zadajte lokalitu pre vaše predpovede počasia. Ak chcete zahrnúť svoju "
+"lokalitu, rozšírte zoznam obľúbených pomocou 'Spravovať obľúbené'."
+
+msgid "Error getting City ID"
+msgstr "Chyba pri získavaní ID mesta"
+
+msgid "Error in Weatherinfo"
+msgstr "Chyba v Weatherinfo"
+
+msgid "Fahrenheit"
+msgstr "Stupne Fahrenheita"
+
+msgid "Favorites have been successfully saved!"
+msgstr "Obľúbené boli úspešne uložené!"
+
+msgid "Feels like"
+msgstr "Pocitová teplota"
+
+msgid "Humidity"
+msgstr "Vlhkosť"
+
+msgid "MSN weather"
+msgstr "Počasie MSN"
+
+msgid "Manage favorites"
+msgstr "Spravovať obľúbené"
+
+msgid "Metric unit for wind speed"
+msgstr "Metrická jednotka pre rýchlosť vetra"
+
+msgid "Next favorite"
+msgstr "Ďalšie obľúbené"
+
+msgid "View details"
+msgstr "Zobraziť podrobnosti"
+
+msgid "Day +/-"
+msgstr "Deň +/-"
+
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgid "Manage your favorites"
+msgstr "Spravujte svoje obľúbené"
+
+msgid "No data available for this period."
+msgstr "Pre toto obdobie nie sú k dispozícii žiadne údaje."
+
+msgid "No data available."
+msgstr "Nie sú k dispozícii žiadne údaje."
+
+msgid "North"
+msgstr "Sever"
+
+msgid "Northeast"
+msgstr "Severovýchod"
+
+msgid "Northwest"
+msgstr "Severozápad"
+
+msgid "Open-Meteo Wetter"
+msgstr "Počasie Open-Meteo"
+
+msgid "Precipitation"
+msgstr "Zrážky"
+
+msgid "Previous favorite"
+msgstr "Predchádzajúce obľúbené"
+
+msgid "Refresh interval"
+msgstr "Interval obnovenia"
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "Search for your city"
+msgstr "Vyhľadajte svoje mesto"
+
+msgid "Select 'Yes' to enable add debug output to log."
+msgstr "Vyberte 'Áno' pre povolenie pridávania ladiacich výstupov do protokolu."
+
+msgid "Select 'Yes' to enable the addition of Weather."
+msgstr "Vyberte 'Áno' pre povolenie pridania počasia."
+
+msgid "Select desired location"
+msgstr "Vyberte požadovanú lokalitu"
+
+msgid ""
+"Select the metric unit for wind speed to be used for wind displays. This has "
+"no effect on the imperial unit 'mph'."
+msgstr ""
+"Vyberte metrickú jednotku rýchlosti vetra, ktorá sa má používať na "
+"zobrazovanie vetra. Nemá to žiadny vplyv na imperiálnu jednotku 'mph'."
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr "Vyberte preferovanú službu počasia, ktorá bude poskytovať informácie o počasí."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr "Vyberte jednotku teploty, ktorá sa má používať na zobrazovanie teploty."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"Vyberte túto možnosť, ak chcete uložiť naposledy získané údaje o počasí "
+"lokálne. Používa sa to na inicializáciu údajov hneď po reštarte, zatiaľ čo "
+"sa načítavajú aktualizované údaje."
+
+msgid "Select your location"
+msgstr "Vyberte svoju lokalitu"
+
+msgid "Set default values"
+msgstr "Nastaviť predvolené hodnoty"
+
+msgid "Show Weather Forecast"
+msgstr "Zobraziť predpoveď počasia"
+
+msgid "South"
+msgstr "Juh"
+
+msgid "Southeast"
+msgstr "Juhovýchod"
+
+msgid "Southwest"
+msgstr "Juhozápad"
+
+msgid ""
+"Specify how often Weather retrieves its data from the server. 'Once' means "
+"the data will loaded only once after a GUI or system start."
+msgstr ""
+"Určte, ako často Počasie načítava svoje údaje zo servera. 'Raz' znamená, že "
+"sa údaje načítajú iba raz po spustení grafického používateľského rozhrania "
+"alebo systému."
+
+msgid "Temperature unit"
+msgstr "Jednotka teploty"
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr ""
+"Názov mesta je príliš krátky. Na vyhľadávanie sú potrebné viac ako 2 znaky."
+
+#, python-format
+msgid ""
+"The favorite '%s' corresponds to the set weather city name and therefore "
+"cannot be deleted."
+msgstr ""
+"Obľúbené '%s' zodpovedá nastavenému názvu mesta počasia, a preto ho "
+"nemožno odstrániť."
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "Update"
+msgstr "Aktualizovať"
+
+msgid "Weather Plugin"
+msgstr "Zásuvný modul počasia"
+
+msgid "Weather Plugin Detailview"
+msgstr "Detailné zobrazenie zásuvného modulu počasia"
+
+msgid "Weather Plugin Overview"
+msgstr "Prehľad zásuvného modulu počasia"
+
+msgid "Weather Settings Actions"
+msgstr "Akcie nastavení počasia"
+
+msgid "Weather city name"
+msgstr "Názov mesta počasia"
+
+msgid "Weather cityname (at least 3 letters):"
+msgstr "Názov mesta počasia (aspoň 3 písmená):"
+
+msgid "Weather icon night switch"
+msgstr "Nočný prepínač ikon počasia"
+
+msgid "Weather icon set"
+msgstr "Sada ikon počasia"
+
+msgid "Weather service"
+msgstr "Služba počasia"
+
+msgid "Weather API key v2.5"
+msgstr "API kľúč počasia v2.5"
+
+msgid "Weather settings"
+msgstr "Nastavenia počasia"
+
+msgid "West"
+msgstr "Západ"
+
+msgid "km/h"
+msgstr "km/h"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "↓ N"
+msgstr "↓ S"
+
+msgid "↙ NE"
+msgstr "↙ SV"
+
+msgid "← E"
+msgstr "← V"
+
+msgid "↖ SE"
+msgstr "↖ JV"
+
+msgid "↑ S"
+msgstr "↑ J"
+
+msgid "→ W"
+msgstr "→ Z"
+
+msgid "↘ NW"
+msgstr "↘ SZ"
